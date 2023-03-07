@@ -121,6 +121,8 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "currency_code_enabled": false,
+    "checkout_logo_image": "shopify:\/\/shop_images\/Horizontal_Color.svg",
+    "checkout_logo_size": "small",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
