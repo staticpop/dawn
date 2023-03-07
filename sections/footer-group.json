@@ -12,13 +12,6 @@
             "menu": "footer"
           }
         },
-        "footer-1": {
-          "type": "link_list",
-          "settings": {
-            "heading": "Info",
-            "menu": "footer"
-          }
-        },
         "footer-2": {
           "type": "text",
           "settings": {
@@ -31,13 +24,12 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/PopRuby_Logo_Square_Black.svg",
             "image_width": 200,
-            "alignment": ""
+            "alignment": "center"
           }
         }
       },
       "block_order": [
         "footer-0",
-        "footer-1",
         "footer-2",
         "9bcfe186-0e54-4eb9-886d-b02e9beeebe2"
       ],
