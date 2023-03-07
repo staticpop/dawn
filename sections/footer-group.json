@@ -16,7 +16,7 @@
           "type": "text",
           "settings": {
             "heading": "Our mission",
-            "subtext": "<p>Pop Ruby is a maker of Ruby inspired apparel and gear from Seattle, WA. Our goal is pretty simple: create fun, premium apparel that help celebrate the Ruby community. Read more about us <a href=\"\\&quot;\\\/pages\\\/about\\&quot;\" title=\"\\&quot;About\">here.<\/a><\/p>"
+            "subtext": "<p>Pop Ruby is a maker of Ruby inspired apparel and gear from Seattle, WA. Our goal is pretty simple: create fun, premium apparel that help celebrate the Ruby community. Read more about us <a href=\"\/pages\/about\" title=\"About Us\">here.<\/a><\/p>"
           }
         },
         "9bcfe186-0e54-4eb9-886d-b02e9beeebe2": {
