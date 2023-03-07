@@ -24,7 +24,7 @@
           "settings": {
             "image": "shopify:\/\/shop_images\/PopRuby_Logo_Square_Black.svg",
             "image_width": 200,
-            "alignment": "center"
+            "alignment": "right"
           }
         }
       },
@@ -35,7 +35,7 @@
       ],
       "settings": {
         "color_scheme": "background-1",
-        "newsletter_enable": true,
+        "newsletter_enable": false,
         "newsletter_heading": "Subscribe to our emails",
         "show_social": true,
         "enable_country_selector": false,
