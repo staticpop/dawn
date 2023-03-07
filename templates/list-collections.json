@@ -4,12 +4,49 @@
       "type": "main-list-collections",
       "settings": {
         "title": "Collections",
-        "sort": "alphabetical",
-        "image_ratio": "square"
+        "sort": "date",
+        "image_ratio": "portrait",
+        "columns_desktop": 3,
+        "columns_mobile": "2"
+      }
+    },
+    "4c9d4787-0d5c-4119-bc72-9cfbb823e382": {
+      "type": "newsletter",
+      "blocks": {
+        "template--16699155874080__4c9d4787-0d5c-4119-bc72-9cfbb823e382-1673031710a5d81037-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "GET THE INSIDE SCOOP",
+            "heading_size": "h1"
+          }
+        },
+        "template--16699155874080__4c9d4787-0d5c-4119-bc72-9cfbb823e382-1673031710a5d81037-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Sign up for our newsletter and be the first to know about new designs and promos. <\/p><p>No spam, naturally.<\/p>"
+          }
+        },
+        "template--16699155874080__4c9d4787-0d5c-4119-bc72-9cfbb823e382-1673031710a5d81037-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--16699155874080__4c9d4787-0d5c-4119-bc72-9cfbb823e382-1673031710a5d81037-0",
+        "template--16699155874080__4c9d4787-0d5c-4119-bc72-9cfbb823e382-1673031710a5d81037-1",
+        "template--16699155874080__4c9d4787-0d5c-4119-bc72-9cfbb823e382-1673031710a5d81037-2"
+      ],
+      "settings": {
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
       }
     }
   },
   "order": [
-    "main"
+    "main",
+    "4c9d4787-0d5c-4119-bc72-9cfbb823e382"
   ]
 }

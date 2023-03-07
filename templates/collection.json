@@ -3,7 +3,7 @@
     "banner": {
       "type": "main-collection-banner",
       "settings": {
-        "show_collection_description": true,
+        "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-1"
       }
@@ -12,14 +12,58 @@
       "type": "main-collection-product-grid",
       "settings": {
         "products_per_page": 16,
-        "columns_desktop": 4,
-        "image_ratio": "adapt",
-        "show_secondary_image": false,
+        "columns_desktop": 3,
+        "image_ratio": "square",
+        "show_secondary_image": true,
         "show_vendor": false,
         "show_rating": false,
+        "enable_quick_add": false,
         "enable_filtering": true,
+        "filter_type": "drawer",
         "enable_sorting": true,
         "columns_mobile": "2",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "8c98ab15-c5df-4613-bd7b-a062ae7b0df2": {
+      "type": "collection-list",
+      "disabled": true,
+      "blocks": {
+        "template--16699156201760__8c98ab15-c5df-4613-bd7b-a062ae7b0df2-1668626119d584afbe-0": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "t-shirts"
+          }
+        },
+        "template--16699156201760__8c98ab15-c5df-4613-bd7b-a062ae7b0df2-1668626119d584afbe-1": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "sweatshirts"
+          }
+        },
+        "template--16699156201760__8c98ab15-c5df-4613-bd7b-a062ae7b0df2-1668626119d584afbe-2": {
+          "type": "featured_collection",
+          "settings": {
+            "collection": "accessories"
+          }
+        }
+      },
+      "block_order": [
+        "template--16699156201760__8c98ab15-c5df-4613-bd7b-a062ae7b0df2-1668626119d584afbe-0",
+        "template--16699156201760__8c98ab15-c5df-4613-bd7b-a062ae7b0df2-1668626119d584afbe-1",
+        "template--16699156201760__8c98ab15-c5df-4613-bd7b-a062ae7b0df2-1668626119d584afbe-2"
+      ],
+      "settings": {
+        "title": "More To Shop",
+        "heading_size": "h1",
+        "heading_alignment": "text-left",
+        "image_ratio": "square",
+        "columns_desktop": 3,
+        "color_scheme": "background-1",
+        "show_view_all": false,
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -27,6 +71,7 @@
   },
   "order": [
     "banner",
-    "product-grid"
+    "product-grid",
+    "8c98ab15-c5df-4613-bd7b-a062ae7b0df2"
   ]
 }

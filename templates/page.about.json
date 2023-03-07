@@ -1,0 +1,253 @@
+{
+  "sections": {
+    "01982482-3d82-4d4b-b09b-7285107ecb5b": {
+      "type": "slideshow",
+      "disabled": true,
+      "blocks": {
+        "template--16699156005152__01982482-3d82-4d4b-b09b-7285107ecb5b-1668213361e079e93b-0": {
+          "type": "slide",
+          "settings": {
+            "heading": "",
+            "heading_size": "h2",
+            "subheading": "",
+            "button_label": "",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": false,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        }
+      },
+      "block_order": [
+        "template--16699156005152__01982482-3d82-4d4b-b09b-7285107ecb5b-1668213361e079e93b-0"
+      ],
+      "settings": {
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "show_text_below": true,
+        "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "c098554b-bb41-49c8-8ebf-b8a12a4f3842": {
+      "type": "image-with-text",
+      "blocks": {
+        "c49e3a57-fbda-4bbf-9538-e9a1c1e073d7": {
+          "type": "caption",
+          "settings": {
+            "caption": "From Seattle, Washington",
+            "text_style": "caption-with-letter-spacing",
+            "text_size": "medium"
+          }
+        },
+        "template--16919121101088__c098554b-bb41-49c8-8ebf-b8a12a4f3842-166828837657be6463-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "What's This All About?",
+            "heading_size": "h2"
+          }
+        },
+        "template--16919121101088__c098554b-bb41-49c8-8ebf-b8a12a4f3842-166828837657be6463-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Keeping with the spirit of Ruby community, Pop Ruby started as a fun idea for sharing the passion for all things Ruby. <em>We are Ruby developers<\/em> after all. Much like the Ruby programming language, Pop Ruby celebrates the unique diversity that shapes each of us as Rubyists.<\/p><p>Our goal is pretty simple: Provide high quality, Ruby-inspired apparel and accessories that brings a little bit joy in what we do as Ruby enthusiast. We could not be more excited by the response we've received so far. Thank you for coming along with us on our journey.<\/p><p><\/p><p>Oh, and we would love to see pictures of your Pop Ruby gear out in the wild so feel free send us some photos! If we showcase them in our store, we'll send some free Pop Ruby gear your way. <\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--16919121101088__c098554b-bb41-49c8-8ebf-b8a12a4f3842-166828837657be6463-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Get In Touch",
+            "button_link": "shopify:\/\/pages\/contact"
+          }
+        }
+      },
+      "block_order": [
+        "c49e3a57-fbda-4bbf-9538-e9a1c1e073d7",
+        "template--16919121101088__c098554b-bb41-49c8-8ebf-b8a12a4f3842-166828837657be6463-0",
+        "template--16919121101088__c098554b-bb41-49c8-8ebf-b8a12a4f3842-166828837657be6463-1",
+        "template--16919121101088__c098554b-bb41-49c8-8ebf-b8a12a4f3842-166828837657be6463-2"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/popruby-store-rack.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-1",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "show_page_heading": false,
+        "padding_top": 48,
+        "padding_bottom": 48
+      }
+    },
+    "97f428e7-28de-4c6d-a005-0b09cf6420a0": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--16919121101088__97f428e7-28de-4c6d-a005-0b09cf6420a0-1668288376e83ac8be-0": {
+          "type": "column",
+          "settings": {
+            "title": "Can you customize merch for company or conference?",
+            "text": "<p>Yes, we would be more than happy to hear your ideas. Just contact us to explain your needs. <a href=\"\/pages\/make-custom-t-shirts\" title=\"Custom T-Shirts For Your Organization\">Learn more<\/a>.<\/p><p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16919121101088__97f428e7-28de-4c6d-a005-0b09cf6420a0-1668288376e83ac8be-1": {
+          "type": "column",
+          "settings": {
+            "title": "Can submit a design or idea?",
+            "text": "<p>That would be great. We are always on the look out for ideas. Any designs or ideas we use, you'll receive a gift card for our store.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "5d7acb4b-2c04-47f5-8272-4011e8169319": {
+          "type": "column",
+          "settings": {
+            "title": "Where are you based out of?",
+            "text": "<p>We're located in beautiful Seattle Washington.<\/p><p>5335 1\/2 Ballard Ave NW #3<br\/>Seattle WA 98107<\/p><p><\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16919121101088__97f428e7-28de-4c6d-a005-0b09cf6420a0-1668288376e83ac8be-2": {
+          "type": "column",
+          "settings": {
+            "title": "Can I return an item? How?",
+            "text": "<p>Sure. If you find that you would like to return an item, you may do so for any reason within 14 days of its arrival provided it's still in unworn\/unwashed condition. <\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "template--16919121101088__97f428e7-28de-4c6d-a005-0b09cf6420a0-1668288376e83ac8be-0",
+        "template--16919121101088__97f428e7-28de-4c6d-a005-0b09cf6420a0-1668288376e83ac8be-1",
+        "5d7acb4b-2c04-47f5-8272-4011e8169319",
+        "template--16919121101088__97f428e7-28de-4c6d-a005-0b09cf6420a0-1668288376e83ac8be-2"
+      ],
+      "settings": {
+        "title": "Frequently Asked Questions",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "248c5b68-9862-41c9-a347-7b256f0e6da6": {
+      "type": "collage",
+      "disabled": true,
+      "blocks": {
+        "8b3f7e1a-750a-4ead-915a-a9d7607e45ef": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        },
+        "37088d81-c324-4433-a5a7-a94845be4e52": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        },
+        "8d8f39ab-aed0-41cb-b9e9-868f7a761183": {
+          "type": "image",
+          "settings": {
+            "image_padding": false
+          }
+        }
+      },
+      "block_order": [
+        "8b3f7e1a-750a-4ead-915a-a9d7607e45ef",
+        "37088d81-c324-4433-a5a7-a94845be4e52",
+        "8d8f39ab-aed0-41cb-b9e9-868f7a761183"
+      ],
+      "settings": {
+        "heading": "",
+        "heading_size": "h1",
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "card_styles": "product-card-wrapper",
+        "color_scheme": "background-1",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "0b9e0c41-b8d2-4760-b870-9f671718d617": {
+      "type": "rich-text",
+      "blocks": {
+        "template--16919121101088__0b9e0c41-b8d2-4760-b870-9f671718d617-16682883765fcae52f-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "",
+            "heading_size": "h1"
+          }
+        },
+        "template--16919121101088__0b9e0c41-b8d2-4760-b870-9f671718d617-16682883765fcae52f-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>If you have any further questions or just want to say 👋🏻, please get in touch.<\/p>"
+          }
+        },
+        "template--16919121101088__0b9e0c41-b8d2-4760-b870-9f671718d617-16682883765fcae52f-2": {
+          "type": "button",
+          "settings": {
+            "button_label": "Contact Us",
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": true,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--16919121101088__0b9e0c41-b8d2-4760-b870-9f671718d617-16682883765fcae52f-0",
+        "template--16919121101088__0b9e0c41-b8d2-4760-b870-9f671718d617-16682883765fcae52f-1",
+        "template--16919121101088__0b9e0c41-b8d2-4760-b870-9f671718d617-16682883765fcae52f-2"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
+    }
+  },
+  "order": [
+    "01982482-3d82-4d4b-b09b-7285107ecb5b",
+    "c098554b-bb41-49c8-8ebf-b8a12a4f3842",
+    "main",
+    "97f428e7-28de-4c6d-a005-0b09cf6420a0",
+    "248c5b68-9862-41c9-a347-7b256f0e6da6",
+    "0b9e0c41-b8d2-4760-b870-9f671718d617"
+  ]
+}
