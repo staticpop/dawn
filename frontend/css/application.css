@@ -1,0 +1,23 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+.bb {
+  border: 1px solid blue;
+}
+
+.section-header {
+  box-shadow: 0 4px 4px -2px rgba(0,0,0,.15);
+  z-index: 139;
+  transition: left .2s ease-in;
+}
+
+/* Overrides Start Here */
+
+.rte > h3 {
+  @apply m-10 text-4xl font-bold tracking-tight sm:text-5xl
+}
+
+.rte > h4 {
+  @apply text-2xl mb-10 font-bold
+}
