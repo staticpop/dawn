@@ -4,6 +4,20 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
+      "blocks": {
+        "0ffae4f2-0817-456a-b060-8e06b9198a35": {
+          "type": "announcement",
+          "settings": {
+            "text": "🎉 Grand Opening Sale Going On Now!",
+            "text_alignment": "center",
+            "color_scheme": "accent-2",
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "0ffae4f2-0817-456a-b060-8e06b9198a35"
+      ],
       "settings": {
       }
     },
