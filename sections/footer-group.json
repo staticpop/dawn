@@ -23,14 +23,23 @@
           "type": "text",
           "settings": {
             "heading": "Our mission",
-            "subtext": "<p>Share contact information, store details, and brand content with your customers.<\/p>"
+            "subtext": "<p>Pop Ruby is a maker of Ruby inspired apparel and gear from Seattle, WA. Our goal is pretty simple: create fun, premium apparel that help celebrate the Ruby community. Read more about us <a href=\"\\&quot;\\\/pages\\\/about\\&quot;\" title=\"\\&quot;About\">here.<\/a><\/p>"
+          }
+        },
+        "9bcfe186-0e54-4eb9-886d-b02e9beeebe2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/PopRuby_Logo_Square_Black.svg",
+            "image_width": 200,
+            "alignment": ""
           }
         }
       },
       "block_order": [
         "footer-0",
         "footer-1",
-        "footer-2"
+        "footer-2",
+        "9bcfe186-0e54-4eb9-886d-b02e9beeebe2"
       ],
       "settings": {
         "color_scheme": "background-1",
@@ -40,7 +49,6 @@
         "enable_country_selector": false,
         "enable_language_selector": false,
         "payment_enable": true,
-        "show_policy": false,
         "margin_top": 48,
         "padding_top": 36,
         "padding_bottom": 36
