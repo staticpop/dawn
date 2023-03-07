@@ -3,15 +3,15 @@
     "main": {
       "type": "main-product",
       "blocks": {
-        "vendor": {
-          "type": "text",
+        "be903299-e7e9-40de-8e32-b697c9f960d3": {
+          "type": "title",
           "settings": {
-            "text": "{{ product.vendor }}",
-            "text_style": "uppercase"
           }
         },
-        "title": {
-          "type": "title"
+        "description": {
+          "type": "description",
+          "settings": {
+          }
         },
         "caption": {
           "type": "text",
@@ -21,7 +21,9 @@
           }
         },
         "price": {
-          "type": "price"
+          "type": "price",
+          "settings": {
+          }
         },
         "variant_picker": {
           "type": "variant_picker",
@@ -30,7 +32,9 @@
           }
         },
         "quantity_selector": {
-          "type": "quantity_selector"
+          "type": "quantity_selector",
+          "settings": {
+          }
         },
         "buy_buttons": {
           "type": "buy_buttons",
@@ -38,38 +42,37 @@
             "show_dynamic_checkout": true
           }
         },
-        "description": {
-          "type": "description"
-        },
-        "collapsible-row-0": {
+        "collapsible-row-2": {
           "type": "collapsible_tab",
           "settings": {
-            "heading": "Materials",
-            "icon": "leather",
+            "heading": "Material",
+            "icon": "shirt",
             "content": "",
-            "page": ""
+            "page": "{{ product.metafields.custom.materials.value }}"
+          }
+        },
+        "b308e9e9-95b0-4113-8bbe-26bd58d480ff": {
+          "type": "collapsible_tab",
+          "settings": {
+            "heading": "Size Chart",
+            "icon": "ruler",
+            "content": "",
+            "page": "{{ product.metafields.custom.size_chart.value }}"
           }
         },
         "collapsible-row-1": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Shipping & Returns",
             "icon": "truck",
-            "content": "",
-            "page": ""
-          }
-        },
-        "collapsible-row-2": {
-          "type": "collapsible_tab",
-          "settings": {
-            "heading": "Dimensions",
-            "icon": "ruler",
-            "content": "",
+            "content": "<p>We do our best to ship all orders quickly, but most items are made to order. Orders will <strong>ship out within 3-5 business days<\/strong> and we offer <strong>FREE U.S. shipping on orders +$100<\/strong>. <\/p>",
             "page": ""
           }
         },
         "collapsible-row-3": {
           "type": "collapsible_tab",
+          "disabled": true,
           "settings": {
             "heading": "Care Instructions",
             "icon": "heart",
@@ -82,28 +85,41 @@
           "settings": {
             "share_label": "Share"
           }
+        },
+        "8bb50f31-2cb2-4466-9e1d-317115640aa0": {
+          "type": "complementary",
+          "settings": {
+            "block_heading": "Pairs well with",
+            "make_collapsible_row": true,
+            "icon": "price_tag",
+            "product_list_limit": 6,
+            "products_per_page": 3,
+            "pagination_style": "counter",
+            "image_ratio": "square",
+            "enable_quick_add": false
+          }
         }
       },
       "block_order": [
-        "vendor",
-        "title",
+        "be903299-e7e9-40de-8e32-b697c9f960d3",
+        "description",
         "caption",
         "price",
         "variant_picker",
         "quantity_selector",
         "buy_buttons",
-        "description",
-        "collapsible-row-0",
-        "collapsible-row-1",
         "collapsible-row-2",
+        "b308e9e9-95b0-4113-8bbe-26bd58d480ff",
+        "collapsible-row-1",
         "collapsible-row-3",
-        "share"
+        "share",
+        "8bb50f31-2cb2-4466-9e1d-317115640aa0"
       ],
       "settings": {
-        "enable_sticky_info": true,
-        "gallery_layout": "stacked",
-        "media_size": "large",
-        "constrain_to_viewport": true,
+        "enable_sticky_info": false,
+        "media_position": "left",
+        "gallery_layout": "thumbnail_slider",
+        "media_size": "medium",
         "mobile_thumbnails": "hide",
         "hide_variants": true,
         "enable_video_looping": false,
@@ -111,105 +127,62 @@
         "padding_bottom": 12
       }
     },
-    "image-with-text": {
-      "type": "image-with-text",
-      "blocks": {
-        "image-with-text-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Image with text",
-            "heading_size": "h1"
-          }
-        },
-        "image-with-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "text_style": "body"
-          }
-        }
-      },
-      "block_order": [
-        "image-with-text-0",
-        "image-with-text-1"
-      ],
-      "settings": {
-        "height": "small",
-        "desktop_image_width": "medium",
-        "layout": "text_first",
-        "desktop_content_position": "top",
-        "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "multicolumn": {
+    "f507a392-5474-46d1-b823-cba1ce63fba9": {
       "type": "multicolumn",
       "blocks": {
-        "column-0": {
+        "template--16699155939616__f507a392-5474-46d1-b823-cba1ce63fba9-167338714029309887-0": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "⭐️ Easy Return Policy",
+            "text": "<p>Free 30 day returns and exchanges. Purchase with peace of mind. If it <br\/>doesn't fit right or if you just have second thoughts, we got you!<\/p>",
             "link_label": "",
             "link": ""
           }
         },
-        "column-1": {
+        "template--16699155939616__f507a392-5474-46d1-b823-cba1ce63fba9-167338714029309887-1": {
           "type": "column",
           "settings": {
-            "title": "Hassle-Free Exchanges",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "❤️ Made Especially for you",
+            "text": "<p>Our products are made especially for you after checkout. This uses less waste than traditional over-production retail stores.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
+        },
+        "template--16699155939616__f507a392-5474-46d1-b823-cba1ce63fba9-167338714029309887-2": {
+          "type": "column",
+          "settings": {
+            "title": "🚚 Made Responsibly",
+            "text": "<p>Materials are sourced from ethical brands and suppliers that comply with labor, environmental, and safety standards.<\/p>",
             "link_label": "",
             "link": ""
           }
         }
       },
       "block_order": [
-        "column-0",
-        "column-1"
+        "template--16699155939616__f507a392-5474-46d1-b823-cba1ce63fba9-167338714029309887-0",
+        "template--16699155939616__f507a392-5474-46d1-b823-cba1ce63fba9-167338714029309887-1",
+        "template--16699155939616__f507a392-5474-46d1-b823-cba1ce63fba9-167338714029309887-2"
       ],
       "settings": {
         "title": "",
         "heading_size": "h1",
         "image_width": "full",
         "image_ratio": "adapt",
-        "columns_desktop": 2,
+        "columns_desktop": 3,
         "column_alignment": "left",
-        "background_style": "none",
+        "background_style": "primary",
         "button_label": "",
         "button_link": "",
-        "swipe_on_mobile": false,
         "color_scheme": "background-1",
         "columns_mobile": "1",
+        "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
-      }
-    },
-    "related-products": {
-      "type": "related-products",
-      "settings": {
-        "heading": "You may also like",
-        "heading_size": "h2",
-        "columns_desktop": 4,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": true,
-        "show_vendor": false,
-        "show_rating": false,
-        "columns_mobile": "2",
-        "padding_top": 36,
-        "padding_bottom": 28
       }
     }
   },
   "order": [
     "main",
-    "image-with-text",
-    "multicolumn",
-    "related-products"
+    "f507a392-5474-46d1-b823-cba1ce63fba9"
   ]
 }
