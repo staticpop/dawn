@@ -92,7 +92,6 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-        "show_page_heading": false,
         "padding_top": 48,
         "padding_bottom": 48
       }
@@ -167,19 +166,16 @@
         "8b3f7e1a-750a-4ead-915a-a9d7607e45ef": {
           "type": "image",
           "settings": {
-            "image_padding": false
           }
         },
         "37088d81-c324-4433-a5a7-a94845be4e52": {
           "type": "image",
           "settings": {
-            "image_padding": false
           }
         },
         "8d8f39ab-aed0-41cb-b9e9-868f7a761183": {
           "type": "image",
           "settings": {
-            "image_padding": false
           }
         }
       },

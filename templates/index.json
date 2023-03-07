@@ -80,7 +80,6 @@
       "settings": {
         "title": "BEST SELLERS",
         "heading_size": "h2",
-        "heading_alignment": "text-center",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -146,7 +145,6 @@
       "settings": {
         "title": "COFFEE MUGS",
         "heading_size": "h2",
-        "heading_alignment": "text-center",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -174,7 +172,6 @@
       "settings": {
         "title": "WALL ART",
         "heading_size": "h2",
-        "heading_alignment": "text-center",
         "description": "",
         "show_description": false,
         "description_style": "body",

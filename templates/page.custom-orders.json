@@ -83,7 +83,6 @@
       "type": "main-page",
       "disabled": true,
       "settings": {
-        "show_page_heading": false,
         "padding_top": 48,
         "padding_bottom": 48
       }
