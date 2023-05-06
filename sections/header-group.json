@@ -4,6 +4,7 @@
   "sections": {
     "announcement-bar": {
       "type": "announcement-bar",
+      "disabled": true,
       "blocks": {
         "0ffae4f2-0817-456a-b060-8e06b9198a35": {
           "type": "announcement",
