@@ -121,8 +121,11 @@
     "predictive_search_show_vendor": false,
     "predictive_search_show_price": false,
     "currency_code_enabled": false,
-    "checkout_logo_image": "shopify:\/\/shop_images\/Horizontal_Color.svg",
-    "checkout_logo_size": "small",
+    "checkout_logo_image": "shopify:\/\/shop_images\/Horizontal_Transparent.png",
+    "checkout_logo_position": "center",
+    "checkout_logo_size": "large",
+    "checkout_accent_color": "#121212",
+    "checkout_button_color": "#121212",
     "sections": {
       "announcement-bar": {
         "type": "announcement-bar",
