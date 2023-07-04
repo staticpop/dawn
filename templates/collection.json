@@ -2,6 +2,9 @@
   "sections": {
     "banner": {
       "type": "main-collection-banner",
+      "custom_css": [
+        ".collection-hero__title {margin: 0px !important;}"
+      ],
       "settings": {
         "show_collection_description": false,
         "show_collection_image": false,
