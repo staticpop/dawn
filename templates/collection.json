@@ -3,7 +3,7 @@
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
-        ".collection-hero__title {margin: 0px !important;}"
+        ".collection-hero__title {margin-bottom: 0px !important;}"
       ],
       "settings": {
         "show_collection_description": false,
