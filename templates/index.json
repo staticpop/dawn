@@ -61,6 +61,7 @@
         },
         "efce85a0-517e-4fb4-a680-2e649fb387d9": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/PopRuby-Group-Photo-Banner_f81e0ec1-a051-4b97-a62a-fa9b4f7b6f81.jpg",
             "heading": "",
