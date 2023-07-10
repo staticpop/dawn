@@ -122,71 +122,6 @@
         "padding_bottom": 36
       }
     },
-    "86d805fb-20bc-497e-aeec-40176bd41c75": {
-      "type": "collage",
-      "blocks": {
-        "18d83154-ecf3-4e56-94e5-4133a3b75af5": {
-          "type": "collection",
-          "settings": {
-            "collection": "sweatshirts"
-          }
-        },
-        "48a0bc3c-375e-449a-b986-9e3d8c6882a4": {
-          "type": "collection",
-          "settings": {
-            "collection": "patches"
-          }
-        },
-        "5dd67605-8786-4d90-bb84-04cbf46aac5d": {
-          "type": "collection",
-          "settings": {
-            "collection": "womens-t-shirts"
-          }
-        }
-      },
-      "block_order": [
-        "18d83154-ecf3-4e56-94e5-4133a3b75af5",
-        "48a0bc3c-375e-449a-b986-9e3d8c6882a4",
-        "5dd67605-8786-4d90-bb84-04cbf46aac5d"
-      ],
-      "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "none",
-        "color_scheme": "background-1",
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
-    "featured_collection": {
-      "type": "featured-collection",
-      "settings": {
-        "title": "COFFEE MUGS",
-        "heading_size": "h2",
-        "description": "",
-        "show_description": false,
-        "description_style": "body",
-        "collection": "coffee-mugs",
-        "products_to_show": 7,
-        "columns_desktop": 4,
-        "full_width": false,
-        "show_view_all": true,
-        "view_all_style": "outline",
-        "enable_desktop_slider": true,
-        "color_scheme": "background-1",
-        "image_ratio": "square",
-        "show_secondary_image": false,
-        "show_vendor": false,
-        "show_rating": false,
-        "enable_quick_add": false,
-        "columns_mobile": "2",
-        "swipe_on_mobile": false,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
-    },
     "0c2921e1-f776-47d4-8a25-a52da43eeb41": {
       "type": "multicolumn",
       "blocks": {
@@ -196,8 +131,8 @@
             "image": "shopify:\/\/shop_images\/t-shirt-mockup-of-a-smiling-man-with-sunglasses-working-on-his-laptop-m16616-r-el2.png",
             "title": "",
             "text": "",
-            "link_label": "Shop Men",
-            "link": "shopify:\/\/collections\/mens-new-arrivals"
+            "link_label": "Shop Men Shirts",
+            "link": "shopify:\/\/collections\/t-shirts"
           }
         },
         "template--18163213762848__0c2921e1-f776-47d4-8a25-a52da43eeb41-1688926342a098f312-1": {
@@ -243,76 +178,66 @@
         "padding_bottom": 36
       }
     },
-    "d8a7efcb-4fc5-4b46-948b-de429a0c23dc": {
-      "type": "multirow",
-      "disabled": true,
-      "blocks": {
-        "template--18163213762848__d8a7efcb-4fc5-4b46-948b-de429a0c23dc-16889261359c754918-2": {
-          "type": "row",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/t-shirt-mockup-of-a-smiling-man-with-sunglasses-working-on-his-laptop-m16616-r-el2.png",
-            "caption": "PopRuby",
-            "heading": "Row",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p><p><\/p><p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p><p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p><p><\/p><p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p><p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p><p><\/p><p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "button_label": "Button label",
-            "button_link": ""
-          }
-        }
-      },
-      "block_order": [
-        "template--18163213762848__d8a7efcb-4fc5-4b46-948b-de429a0c23dc-16889261359c754918-2"
-      ],
+    "featured_collection": {
+      "type": "featured-collection",
       "settings": {
-        "image_height": "medium",
-        "desktop_image_width": "medium",
-        "heading_size": "h1",
-        "text_style": "body",
-        "button_style": "secondary",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "left",
-        "image_layout": "alternate-left",
-        "section_color_scheme": "background-1",
-        "row_color_scheme": "background-1",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 36
+        "title": "COFFEE MUGS",
+        "heading_size": "h2",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "coffee-mugs",
+        "products_to_show": 7,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "outline",
+        "enable_desktop_slider": true,
+        "color_scheme": "background-1",
+        "image_ratio": "square",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 20,
+        "padding_bottom": 20
       }
     },
-    "bf70df16-737a-4447-9b79-9add785240f6": {
+    "86d805fb-20bc-497e-aeec-40176bd41c75": {
       "type": "collage",
-      "disabled": true,
       "blocks": {
-        "template--18163213762848__bf70df16-737a-4447-9b79-9add785240f6-1688925050594c6014-0": {
-          "type": "image",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/t-shirt-mockup-of-a-smiling-man-with-sunglasses-working-on-his-laptop-m16616-r-el2.png"
-          }
-        },
-        "template--18163213762848__bf70df16-737a-4447-9b79-9add785240f6-1688925050594c6014-1": {
-          "type": "product",
-          "settings": {
-            "product": "",
-            "second_image": false
-          }
-        },
-        "template--18163213762848__bf70df16-737a-4447-9b79-9add785240f6-1688925050594c6014-2": {
+        "18d83154-ecf3-4e56-94e5-4133a3b75af5": {
           "type": "collection",
           "settings": {
-            "collection": "framed-prints"
+            "collection": "sweatshirts"
+          }
+        },
+        "48a0bc3c-375e-449a-b986-9e3d8c6882a4": {
+          "type": "collection",
+          "settings": {
+            "collection": "patches"
+          }
+        },
+        "5dd67605-8786-4d90-bb84-04cbf46aac5d": {
+          "type": "collection",
+          "settings": {
+            "collection": "womens-t-shirts"
           }
         }
       },
       "block_order": [
-        "template--18163213762848__bf70df16-737a-4447-9b79-9add785240f6-1688925050594c6014-0",
-        "template--18163213762848__bf70df16-737a-4447-9b79-9add785240f6-1688925050594c6014-1",
-        "template--18163213762848__bf70df16-737a-4447-9b79-9add785240f6-1688925050594c6014-2"
+        "18d83154-ecf3-4e56-94e5-4133a3b75af5",
+        "48a0bc3c-375e-449a-b986-9e3d8c6882a4",
+        "5dd67605-8786-4d90-bb84-04cbf46aac5d"
       ],
       "settings": {
-        "heading": "New Arrivals",
-        "heading_size": "h2",
+        "heading": "",
+        "heading_size": "h1",
         "desktop_layout": "left",
-        "mobile_layout": "column",
-        "card_styles": "product-card-wrapper",
+        "mobile_layout": "collage",
+        "card_styles": "none",
         "color_scheme": "background-1",
         "padding_top": 36,
         "padding_bottom": 36
@@ -436,11 +361,9 @@
   "order": [
     "7d531f84-eed6-4025-aa4c-2faa5a82fb4d",
     "3a954bc0-ee43-47b2-b8dd-3c0297f51ed2",
-    "86d805fb-20bc-497e-aeec-40176bd41c75",
-    "featured_collection",
     "0c2921e1-f776-47d4-8a25-a52da43eeb41",
-    "d8a7efcb-4fc5-4b46-948b-de429a0c23dc",
-    "bf70df16-737a-4447-9b79-9add785240f6",
+    "featured_collection",
+    "86d805fb-20bc-497e-aeec-40176bd41c75",
     "a817d82e-0240-435b-a9fd-5dc28c9b12a4",
     "ed957adb-ca08-4d6b-98d1-3693611a80ef",
     "8ec3f008-8586-4c49-adba-f6e53dfdf6a5"
