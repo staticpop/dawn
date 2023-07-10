@@ -44,7 +44,7 @@
         "d627c6e0-e22e-4adb-bc69-431b9f0ccbaa": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Lost-In-Ruby-v2.png",
+            "image": "shopify:\/\/shop_images\/Lost-In-Ruby_62aec6c0-4b7d-4087-bf36-a89ebdcdefb5.jpg",
             "heading": "",
             "heading_size": "h0",
             "subheading": "",
@@ -110,7 +110,7 @@
         "show_view_all": true,
         "view_all_style": "outline",
         "enable_desktop_slider": false,
-        "color_scheme": "background-1",
+        "color_scheme": "background-2",
         "image_ratio": "adapt",
         "show_secondary_image": true,
         "show_vendor": false,
