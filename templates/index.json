@@ -276,14 +276,14 @@
         "template--18163213762848__c8587359-c5c6-452f-81ad-904856c9b28f-16890356287186e73a-0": {
           "type": "heading",
           "settings": {
-            "heading": "About PopRuby",
+            "heading": "Our Mission",
             "heading_size": "h2"
           }
         },
         "template--18163213762848__c8587359-c5c6-452f-81ad-904856c9b28f-16890356287186e73a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>PopRuby was born out of a desire to foster a sense of community and enthusiasm within the Ruby community. Its inception stemmed from the recognition that as Ruby developers, we possess a shared passion for the language and a deep appreciation for its elegance. <\/p>",
+            "text": "<p>PopRuby was born out of a desire to foster a sense of community and enthusiasm within the Ruby community. We aim to embrace the diverse backgrounds, perspectives, and experiences of its members<\/p>",
             "text_style": "body"
           }
         },
