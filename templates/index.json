@@ -276,7 +276,7 @@
         "template--18163213762848__c8587359-c5c6-452f-81ad-904856c9b28f-16890356287186e73a-0": {
           "type": "heading",
           "settings": {
-            "heading": "Image with text",
+            "heading": "About PopRuby",
             "heading_size": "h2"
           }
         },
@@ -307,7 +307,7 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "overlap",
+        "content_layout": "no-overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
