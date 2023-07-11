@@ -283,15 +283,15 @@
         "template--18163213762848__c8587359-c5c6-452f-81ad-904856c9b28f-16890356287186e73a-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>PopRuby was born out of a desire to foster a sense of community and enthusiasm within the Ruby community. Its inception stemmed from the recognition that as Ruby developers, we possess a shared passion for the language and a deep appreciation for its elegance. <\/p>",
             "text_style": "body"
           }
         },
         "template--18163213762848__c8587359-c5c6-452f-81ad-904856c9b28f-16890356287186e73a-2": {
           "type": "button",
           "settings": {
-            "button_label": "Button label",
-            "button_link": ""
+            "button_label": "Read More →",
+            "button_link": "shopify:\/\/pages\/about"
           }
         }
       },
@@ -307,7 +307,7 @@
         "layout": "image_first",
         "desktop_content_position": "top",
         "desktop_content_alignment": "left",
-        "content_layout": "no-overlap",
+        "content_layout": "overlap",
         "color_scheme": "background-1",
         "mobile_content_alignment": "left",
         "padding_top": 36,
