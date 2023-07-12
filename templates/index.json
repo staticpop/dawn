@@ -64,7 +64,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "t-shirts",
-        "products_to_show": 13,
+        "products_to_show": 9,
         "columns_desktop": 3,
         "full_width": false,
         "show_view_all": false,
