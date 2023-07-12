@@ -1,96 +1,71 @@
 {
   "sections": {
-    "image_banner": {
-      "type": "image-banner",
+    "3b2014bb-58eb-40e4-9a18-7f05adbac8b8": {
+      "type": "slideshow",
       "blocks": {
-        "heading": {
-          "type": "heading",
-          "disabled": true,
+        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-0": {
+          "type": "slide",
           "settings": {
-            "heading": "Image banner",
-            "heading_size": "h0"
+            "image": "shopify:\/\/shop_images\/Lost-In-Ruby_ad460c1d-8981-403e-a4f3-d8c414f6e067.jpg",
+            "heading": "",
+            "heading_size": "h1",
+            "subheading": "",
+            "button_label": "Explore Collection",
+            "link": "shopify:\/\/collections\/lost-in-ruby",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         },
-        "text": {
-          "type": "text",
+        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-1": {
+          "type": "slide",
           "disabled": true,
           "settings": {
-            "text": "Give customers details about the banner image(s) or content on the template.",
-            "text_style": "body"
-          }
-        },
-        "button": {
-          "type": "buttons",
-          "settings": {
-            "button_label_1": "Shop all",
-            "button_link_1": "shopify:\/\/collections\/all",
-            "button_style_secondary_1": true,
-            "button_label_2": "",
-            "button_link_2": "",
-            "button_style_secondary_2": false
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "",
+            "text_alignment_mobile": "center"
           }
         }
       },
       "block_order": [
-        "heading",
-        "text",
-        "button"
+        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-0",
+        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/Lost-In-Ruby_ad460c1d-8981-403e-a4f3-d8c414f6e067.jpg",
-        "image_overlay_opacity": 0,
-        "image_height": "large",
-        "desktop_content_position": "bottom-center",
-        "show_text_box": true,
-        "desktop_content_alignment": "center",
-        "color_scheme": "inverse",
-        "image_behavior": "ambient",
-        "mobile_content_alignment": "center",
-        "stack_images_on_mobile": false,
-        "show_text_below": false
-      }
-    },
-    "rich_text": {
-      "type": "rich-text",
-      "blocks": {
-        "heading": {
-          "type": "heading",
-          "settings": {
-            "heading": "Talk about your brand",
-            "heading_size": "h1"
-          }
-        },
-        "text": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "heading",
-        "text"
-      ],
-      "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
-        "color_scheme": "background-1",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
+        "layout": "grid",
+        "slide_height": "adapt_image",
+        "slider_visual": "counter",
+        "auto_rotate": false,
+        "change_slides_speed": 5,
+        "image_behavior": "none",
+        "show_text_below": true,
+        "accessibility_info": ""
       }
     },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
-        "title": "Featured products",
+        "title": "",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "all",
-        "products_to_show": 8,
-        "columns_desktop": 4,
+        "collection": "t-shirts",
+        "products_to_show": 13,
+        "columns_desktop": 3,
         "full_width": false,
         "show_view_all": false,
         "view_all_style": "solid",
@@ -216,8 +191,7 @@
     }
   },
   "order": [
-    "image_banner",
-    "rich_text",
+    "3b2014bb-58eb-40e4-9a18-7f05adbac8b8",
     "featured_collection",
     "collage",
     "video",
