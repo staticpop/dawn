@@ -83,6 +83,51 @@
         "padding_bottom": 36
       }
     },
+    "73e79dca-f168-4467-b239-ec944d8fb097": {
+      "type": "multicolumn",
+      "blocks": {
+        "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-0": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/t-shirt-mockup-of-a-smiling-man-with-sunglasses-working-on-his-laptop-m16616-r-el2.png",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Men's Shirts →",
+            "link": "shopify:\/\/collections\/t-shirts"
+          }
+        },
+        "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-1": {
+          "type": "column",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/tee-mockup-of-a-woman-with-glasses-having-a-video-conference-on-her-laptop-m16322-r-el2.jpg",
+            "title": "",
+            "text": "",
+            "link_label": "Shop Women's Shirts",
+            "link": "shopify:\/\/collections\/womens-t-shirts"
+          }
+        }
+      },
+      "block_order": [
+        "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-0",
+        "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-1"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h1",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 2,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "Button label",
+        "button_link": "",
+        "color_scheme": "",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -173,58 +218,13 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
-    },
-    "73e79dca-f168-4467-b239-ec944d8fb097": {
-      "type": "multicolumn",
-      "blocks": {
-        "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-0": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/t-shirt-mockup-of-a-smiling-man-with-sunglasses-working-on-his-laptop-m16616-r-el2.png",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Men's Shirts →",
-            "link": "shopify:\/\/collections\/t-shirts"
-          }
-        },
-        "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-1": {
-          "type": "column",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/tee-mockup-of-a-woman-with-glasses-having-a-video-conference-on-her-laptop-m16322-r-el2.jpg",
-            "title": "",
-            "text": "",
-            "link_label": "Shop Women's Shirts",
-            "link": "shopify:\/\/collections\/womens-t-shirts"
-          }
-        }
-      },
-      "block_order": [
-        "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-0",
-        "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-1"
-      ],
-      "settings": {
-        "title": "Multicolumn",
-        "heading_size": "h1",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 2,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "Button label",
-        "button_link": "",
-        "color_scheme": "",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
     }
   },
   "order": [
     "3b2014bb-58eb-40e4-9a18-7f05adbac8b8",
     "featured_collection",
+    "73e79dca-f168-4467-b239-ec944d8fb097",
     "collage",
-    "multicolumn",
-    "73e79dca-f168-4467-b239-ec944d8fb097"
+    "multicolumn"
   ]
 }
