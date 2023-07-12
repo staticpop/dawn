@@ -40,7 +40,7 @@
       "reset": "Išvalyti paieškos terminą"
     },
     "cart": {
-      "view": "Peržiūrėti mano krepšelį ({{ count }})",
+      "view": "Peržiūrėti krepšelį ({{ count }})",
       "item_added": "Prekė įdėta į jūsų krepšelį",
       "view_empty_cart": "Peržiūrėti krepšelį"
     },
@@ -284,8 +284,6 @@
       "title": "Jūsų krepšelis",
       "caption": "Krepšelio turinys",
       "remove_title": "Pašalinti {{ title }}",
-      "subtotal": "Tarpinė suma",
-      "new_subtotal": "Nauja tarpinė suma",
       "note": "Specialūs nurodymai dėl užsakymo",
       "checkout": "Atsiskaityti",
       "empty": "Jūsų krepšelis tuščias",
@@ -306,7 +304,9 @@
       "login": {
         "title": "Turite paskyrą?",
         "paragraph_html": "<a href=\"{{ link }}\" class=\"link underlined-link\">Prisijunkite</a> ir atsiskaitysite greičiau."
-      }
+      },
+      "estimated_total": "Apskaičiuota bendra suma",
+      "new_estimated_total": "Nauja apskaičiuota bendra suma"
     },
     "footer": {
       "payment": "Mokėjimo būdai"
@@ -342,6 +342,13 @@
     },
     "page": {
       "title": "Puslapio pavadinimas"
+    },
+    "announcements": {
+      "previous_announcement": "Ankstesnis skelbimas",
+      "next_announcement": "Kitas skelbimas",
+      "carousel": "Karuselė",
+      "announcement": "Skelbimas",
+      "announcement_bar": "Skelbimo juosta"
     }
   },
   "localization": {
@@ -462,17 +469,34 @@
   },
   "gift_cards": {
     "issued": {
-      "title": "Štai jūsų {{ value }} vertės parduotuvės „{{ shop }}“ dovanų kortelė!",
+      "title": "Štai jūsų {{ value }} vertės parduotuvės {{ shop }} dovanų kortelė!",
       "subtext": "Jūsų dovanų kortelė",
       "gift_card_code": "Dovanų kortelės kodas",
-      "shop_link": "Tęsti apsipirkimą",
-      "remaining_html": "Liko {{ balance }}",
+      "shop_link": "Apsilankyti internetinėje parduotuvėje",
       "add_to_apple_wallet": "Pridėti prie „Apple Wallet“",
       "qr_image_alt": "QR kodas — nuskaitykite ir panaudokite dovanų kortelę",
-      "copy_code": "Kopijuoti kodą",
+      "copy_code": "Kopijuoti dovanų kortelės kodą",
       "expired": "Nebegalioja",
       "copy_code_success": "Kodą pavyko nukopijuoti",
-      "print_gift_card": "Spausdinti"
+      "how_to_use_gift_card": "Panaudokite dovanų kortelės kodą internetinėje parduotuvėje arba QR kodą fizinėje parduotuvėje",
+      "expiration_date": "Baigs galioti {{ expires_on }}"
+    }
+  },
+  "recipient": {
+    "form": {
+      "checkbox": "Noriu siųsti kaip dovaną",
+      "email_label": "Gavėjo el. pašto adresas",
+      "email": "El. pašto adresas",
+      "name_label": "Gavėjo vardas (pasirinktinai)",
+      "name": "Vardas",
+      "message_label": "Žinutė (pasirinktinai)",
+      "message": "Žinutė",
+      "max_characters": "Daugiausia {{ max_chars }} simbolių",
+      "email_label_optional_for_no_js_behavior": "Gavėjo el. pašto adresas (pasirinktinai)",
+      "send_on": "MMMM-MM-DD",
+      "send_on_label": "Išsiuntimo data (pasirinktinai)",
+      "expanded": "Išskleista dovanų kortelės gavėjo forma",
+      "collapsed": "Suskleista dovanų kortelės gavėjo forma"
     }
   }
 }
