@@ -131,6 +131,14 @@
     "content_for_index": [
 
     ],
+    "blocks": {
+      "8244597689238439600": {
+        "type": "shopify:\/\/apps\/banneryear\/blocks\/app-embed-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+        "disabled": false,
+        "settings": {
+        }
+      }
+    },
     "color_schemes": {
       "background-1": {
         "settings": {
