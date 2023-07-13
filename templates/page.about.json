@@ -31,8 +31,25 @@
         "slider_visual": "counter",
         "auto_rotate": false,
         "change_slides_speed": 5,
+        "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": "Slideshow about our brand"
+      }
+    },
+    "1689268354e31398de": {
+      "type": "apps",
+      "blocks": {
+        "225949f5-e5d5-400b-aca1-c87ca7dc3752": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "225949f5-e5d5-400b-aca1-c87ca7dc3752"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "c098554b-bb41-49c8-8ebf-b8a12a4f3842": {
@@ -64,7 +81,8 @@
           "type": "button",
           "settings": {
             "button_label": "Get In Touch",
-            "button_link": "shopify:\/\/pages\/contact"
+            "button_link": "shopify:\/\/pages\/contact",
+            "button_style_secondary": false
           }
         }
       },
@@ -83,6 +101,7 @@
         "desktop_content_alignment": "left",
         "content_layout": "no-overlap",
         "color_scheme": "background-1",
+        "image_behavior": "none",
         "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
@@ -240,6 +259,7 @@
   },
   "order": [
     "01982482-3d82-4d4b-b09b-7285107ecb5b",
+    "1689268354e31398de",
     "c098554b-bb41-49c8-8ebf-b8a12a4f3842",
     "main",
     "97f428e7-28de-4c6d-a005-0b09cf6420a0",
