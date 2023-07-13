@@ -2,12 +2,31 @@
   "name": "t:sections.header.name",
   "type": "header",
   "sections": {
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo_position": "middle-left",
+        "menu": "main-menu",
+        "menu_type_desktop": "dropdown",
+        "sticky_header_type": "reduce-logo-size",
+        "show_line_separator": true,
+        "color_scheme": "background-1",
+        "menu_color_scheme": "",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "mobile_logo_position": "center",
+        "margin_bottom": 0,
+        "padding_top": 20,
+        "padding_bottom": 20
+      }
+    },
     "announcement-bar": {
       "type": "announcement-bar",
       "disabled": true,
       "blocks": {
         "0ffae4f2-0817-456a-b060-8e06b9198a35": {
           "type": "announcement",
+          "disabled": true,
           "settings": {
             "text": "🎉 Grand Opening Sale Going On Now! Use CODE 'RUBY2023' For 10% OFF 🎉",
             "link": ""
@@ -34,28 +53,10 @@
         "enable_country_selector": false,
         "enable_language_selector": false
       }
-    },
-    "header": {
-      "type": "header",
-      "settings": {
-        "logo_position": "middle-left",
-        "menu": "main-menu",
-        "menu_type_desktop": "dropdown",
-        "sticky_header_type": "reduce-logo-size",
-        "show_line_separator": true,
-        "color_scheme": "background-1",
-        "menu_color_scheme": "",
-        "enable_country_selector": true,
-        "enable_language_selector": true,
-        "mobile_logo_position": "center",
-        "margin_bottom": 0,
-        "padding_top": 20,
-        "padding_bottom": 20
-      }
     }
   },
   "order": [
-    "announcement-bar",
-    "header"
+    "header",
+    "announcement-bar"
   ]
 }
