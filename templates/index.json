@@ -71,6 +71,22 @@
         "accessibility_info": ""
       }
     },
+    "1689264848287db94c": {
+      "type": "apps",
+      "blocks": {
+        "85720f6c-d633-4fa9-b267-5d1b7cd6f3ec": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "85720f6c-d633-4fa9-b267-5d1b7cd6f3ec"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "featured_collection": {
       "type": "featured-collection",
       "settings": {
@@ -329,6 +345,7 @@
   "order": [
     "168920616796273ada",
     "3b2014bb-58eb-40e4-9a18-7f05adbac8b8",
+    "1689264848287db94c",
     "featured_collection",
     "73e79dca-f168-4467-b239-ec944d8fb097",
     "6f44e7a5-79af-4894-b0de-ce4eef3b1bd4",
