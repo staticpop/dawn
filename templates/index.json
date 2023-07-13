@@ -238,40 +238,6 @@
         "padding_bottom": 36
       }
     },
-    "931d15f2-9344-40ea-8ee7-cbfc425c149c": {
-      "type": "newsletter",
-      "blocks": {
-        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-0": {
-          "type": "heading",
-          "settings": {
-            "heading": "Get On The Insider's List",
-            "heading_size": "h1"
-          }
-        },
-        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-1": {
-          "type": "paragraph",
-          "settings": {
-            "text": "<p>Be the first to know about new designs and exclusive offers.<\/p>"
-          }
-        },
-        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-2": {
-          "type": "email_form",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-0",
-        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-1",
-        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-2"
-      ],
-      "settings": {
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 52
-      }
-    },
     "00c368b7-2bef-4726-b0a4-321a27f04217": {
       "type": "multicolumn",
       "blocks": {
@@ -324,6 +290,40 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "931d15f2-9344-40ea-8ee7-cbfc425c149c": {
+      "type": "newsletter",
+      "blocks": {
+        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-0": {
+          "type": "heading",
+          "settings": {
+            "heading": "Get On The Insider's List",
+            "heading_size": "h1"
+          }
+        },
+        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-1": {
+          "type": "paragraph",
+          "settings": {
+            "text": "<p>Be the first to know about new designs and exclusive offers.<\/p>"
+          }
+        },
+        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-2": {
+          "type": "email_form",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-0",
+        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-1",
+        "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-2"
+      ],
+      "settings": {
+        "color_scheme": "inverse",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -334,7 +334,7 @@
     "6f44e7a5-79af-4894-b0de-ce4eef3b1bd4",
     "collage",
     "9b4ead34-82da-4c28-aeec-a0b37e8b44d8",
-    "931d15f2-9344-40ea-8ee7-cbfc425c149c",
-    "00c368b7-2bef-4726-b0a4-321a27f04217"
+    "00c368b7-2bef-4726-b0a4-321a27f04217",
+    "931d15f2-9344-40ea-8ee7-cbfc425c149c"
   ]
 }
