@@ -2,7 +2,6 @@
   "sections": {
     "168920616796273ada": {
       "type": "apps",
-      "disabled": true,
       "blocks": {
         "264f52de-b3de-41f4-8c36-1735f05bfd37": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
