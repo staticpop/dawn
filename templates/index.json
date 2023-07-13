@@ -256,12 +256,13 @@
     },
     "00c368b7-2bef-4726-b0a4-321a27f04217": {
       "type": "multicolumn",
+      "disabled": true,
       "blocks": {
         "template--18163213762848__00c368b7-2bef-4726-b0a4-321a27f04217-1689206554695b33c8-0": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "title": "⭐️️ Easy Return Policy",
+            "text": "<p>Free 30 day returns and exchanges. Purchase with peace of mind. If it doesn't fit right or if you just have second thoughts, we got you!&lt;\\\/p&gt;<\/p>",
             "link_label": "",
             "link": ""
           }
