@@ -320,7 +320,7 @@
       ],
       "settings": {
         "color_scheme": "inverse",
-        "full_width": true,
+        "full_width": false,
         "padding_top": 40,
         "padding_bottom": 52
       }
