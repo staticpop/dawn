@@ -382,5 +382,10 @@
         }
       }
     }
+  },
+  "platform_customizations": {
+    "custom_css": [
+      ".product-form__input input[type=radio]+label {padding: 0.5rem 1rem; font-size: 1.4rem; letter-spacing: .1rem;}"
+    ]
   }
 }
