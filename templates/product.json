@@ -8,11 +8,6 @@
           "settings": {
           }
         },
-        "description": {
-          "type": "description",
-          "settings": {
-          }
-        },
         "caption": {
           "type": "text",
           "settings": {
@@ -108,7 +103,6 @@
       },
       "block_order": [
         "be903299-e7e9-40de-8e32-b697c9f960d3",
-        "description",
         "caption",
         "price",
         "8dc8bae0-7819-4ace-977b-cbad298702e8",
