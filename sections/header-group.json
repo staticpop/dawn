@@ -12,10 +12,18 @@
             "text": "🎉 Grand Opening Sale Going On Now! Use CODE 'RUBY2023' For 10% OFF 🎉",
             "link": ""
           }
+        },
+        "8da743c7-e0b7-484c-9a01-30bbc2fce51f": {
+          "type": "announcement",
+          "settings": {
+            "text": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "0ffae4f2-0817-456a-b060-8e06b9198a35"
+        "0ffae4f2-0817-456a-b060-8e06b9198a35",
+        "8da743c7-e0b7-484c-9a01-30bbc2fce51f"
       ],
       "settings": {
         "color_scheme": "",
