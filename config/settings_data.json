@@ -11,6 +11,7 @@
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
+    "animations_reveal_on_scroll": false,
     "animations_hover_elements": "vertical-lift",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
@@ -385,7 +386,7 @@
   },
   "platform_customizations": {
     "custom_css": [
-      ".product-form__input input[type=radio]+label {padding: 0.5rem 1rem; font-size: 1.4rem; letter-spacing: .1rem;}"
+      ".product-form__input input[type=\"radio\"] + label {padding: 0.5rem 1rem; font-size: 1.4rem; letter-spacing: 0.1rem;}"
     ]
   }
 }
