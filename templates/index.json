@@ -1,5 +1,21 @@
 {
   "sections": {
+    "168920616796273ada": {
+      "type": "apps",
+      "blocks": {
+        "264f52de-b3de-41f4-8c36-1735f05bfd37": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "264f52de-b3de-41f4-8c36-1735f05bfd37"
+      ],
+      "settings": {
+        "include_margins": false
+      }
+    },
     "3b2014bb-58eb-40e4-9a18-7f05adbac8b8": {
       "type": "slideshow",
       "blocks": {
@@ -53,22 +69,6 @@
         "image_behavior": "none",
         "show_text_below": true,
         "accessibility_info": ""
-      }
-    },
-    "168920616796273ada": {
-      "type": "apps",
-      "blocks": {
-        "264f52de-b3de-41f4-8c36-1735f05bfd37": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "264f52de-b3de-41f4-8c36-1735f05bfd37"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "featured_collection": {
@@ -327,8 +327,8 @@
     }
   },
   "order": [
-    "3b2014bb-58eb-40e4-9a18-7f05adbac8b8",
     "168920616796273ada",
+    "3b2014bb-58eb-40e4-9a18-7f05adbac8b8",
     "featured_collection",
     "73e79dca-f168-4467-b239-ec944d8fb097",
     "6f44e7a5-79af-4894-b0de-ce4eef3b1bd4",
