@@ -1,5 +1,21 @@
 {
   "sections": {
+    "168970404461c3b79a": {
+      "type": "apps",
+      "blocks": {
+        "008f599e-b122-4458-aecd-9a9158753b8c": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+          }
+        }
+      },
+      "block_order": [
+        "008f599e-b122-4458-aecd-9a9158753b8c"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -202,6 +218,7 @@
     }
   },
   "order": [
+    "168970404461c3b79a",
     "main",
     "f507a392-5474-46d1-b823-cba1ce63fba9",
     "16892090548ce276c2"
