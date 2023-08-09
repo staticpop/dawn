@@ -36,11 +36,6 @@
           "settings": {
           }
         },
-        "8dc8bae0-7819-4ace-977b-cbad298702e8": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
-          "settings": {
-          }
-        },
         "variant_picker": {
           "type": "variant_picker",
           "settings": {
@@ -49,6 +44,11 @@
         },
         "quantity_selector": {
           "type": "quantity_selector",
+          "settings": {
+          }
+        },
+        "8dc8bae0-7819-4ace-977b-cbad298702e8": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
           }
         },
@@ -121,9 +121,9 @@
         "be903299-e7e9-40de-8e32-b697c9f960d3",
         "caption",
         "price",
-        "8dc8bae0-7819-4ace-977b-cbad298702e8",
         "variant_picker",
         "quantity_selector",
+        "8dc8bae0-7819-4ace-977b-cbad298702e8",
         "buy_buttons",
         "collapsible-row-2",
         "b308e9e9-95b0-4113-8bbe-26bd58d480ff",
