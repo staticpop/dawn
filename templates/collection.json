@@ -1,5 +1,23 @@
 {
   "sections": {
+    "168926769416adfb5b": {
+      "type": "apps",
+      "blocks": {
+        "4b32e3d4-d531-414d-8773-f17ea1c93298": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "4b32e3d4-d531-414d-8773-f17ea1c93298"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "banner": {
       "type": "main-collection-banner",
       "custom_css": [
@@ -9,22 +27,6 @@
         "show_collection_description": false,
         "show_collection_image": false,
         "color_scheme": "background-1"
-      }
-    },
-    "168926769416adfb5b": {
-      "type": "apps",
-      "blocks": {
-        "4b32e3d4-d531-414d-8773-f17ea1c93298": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
-          "settings": {
-          }
-        }
-      },
-      "block_order": [
-        "4b32e3d4-d531-414d-8773-f17ea1c93298"
-      ],
-      "settings": {
-        "include_margins": true
       }
     },
     "product-grid": {
@@ -52,6 +54,8 @@
         "283659b1-8df2-4b25-956e-c548d5c33531": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "margin-top": 0,
+            "margin-bottom": 0
           }
         }
       },
@@ -64,7 +68,6 @@
     },
     "8c98ab15-c5df-4613-bd7b-a062ae7b0df2": {
       "type": "collection-list",
-      "disabled": true,
       "blocks": {
         "template--16699156201760__8c98ab15-c5df-4613-bd7b-a062ae7b0df2-1668626119d584afbe-0": {
           "type": "featured_collection",
@@ -90,6 +93,7 @@
         "template--16699156201760__8c98ab15-c5df-4613-bd7b-a062ae7b0df2-1668626119d584afbe-1",
         "template--16699156201760__8c98ab15-c5df-4613-bd7b-a062ae7b0df2-1668626119d584afbe-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "More To Shop",
         "heading_size": "h1",
@@ -105,8 +109,8 @@
     }
   },
   "order": [
-    "banner",
     "168926769416adfb5b",
+    "banner",
     "product-grid",
     "1689208118f6439c6f",
     "8c98ab15-c5df-4613-bd7b-a062ae7b0df2"
