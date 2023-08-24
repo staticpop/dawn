@@ -6,6 +6,8 @@
         "264f52de-b3de-41f4-8c36-1735f05bfd37": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "margin-top": 0,
+            "margin-bottom": 0
           }
         }
       },
@@ -77,6 +79,8 @@
         "85720f6c-d633-4fa9-b267-5d1b7cd6f3ec": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "margin-top": 0,
+            "margin-bottom": 0
           }
         }
       },
@@ -113,6 +117,24 @@
         "swipe_on_mobile": false,
         "padding_top": 28,
         "padding_bottom": 36
+      }
+    },
+    "1692837974d97b9a32": {
+      "type": "apps",
+      "blocks": {
+        "8ce54cb3-b4b3-42b7-831b-e5e0d3b32d64": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "8ce54cb3-b4b3-42b7-831b-e5e0d3b32d64"
+      ],
+      "settings": {
+        "include_margins": true
       }
     },
     "73e79dca-f168-4467-b239-ec944d8fb097": {
@@ -256,7 +278,6 @@
     },
     "00c368b7-2bef-4726-b0a4-321a27f04217": {
       "type": "multicolumn",
-      "disabled": true,
       "blocks": {
         "template--18163213762848__00c368b7-2bef-4726-b0a4-321a27f04217-1689206554695b33c8-0": {
           "type": "column",
@@ -291,6 +312,7 @@
         "template--18163213762848__00c368b7-2bef-4726-b0a4-321a27f04217-1689206554695b33c8-1",
         "template--18163213762848__00c368b7-2bef-4726-b0a4-321a27f04217-1689206554695b33c8-2"
       ],
+      "disabled": true,
       "settings": {
         "title": "",
         "heading_size": "h1",
@@ -348,6 +370,7 @@
     "3b2014bb-58eb-40e4-9a18-7f05adbac8b8",
     "1689264848287db94c",
     "featured_collection",
+    "1692837974d97b9a32",
     "73e79dca-f168-4467-b239-ec944d8fb097",
     "6f44e7a5-79af-4894-b0de-ce4eef3b1bd4",
     "collage",
