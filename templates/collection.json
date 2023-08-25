@@ -30,6 +30,24 @@
         "color_scheme": "background-1"
       }
     },
+    "1693004370288debb5": {
+      "type": "apps",
+      "blocks": {
+        "9d68a3d7-4912-4213-89fc-63c073e661e7": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "9d68a3d7-4912-4213-89fc-63c073e661e7"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "product-grid": {
       "type": "main-collection-product-grid",
       "settings": {
@@ -112,6 +130,7 @@
   "order": [
     "168926769416adfb5b",
     "banner",
+    "1693004370288debb5",
     "product-grid",
     "1689208118f6439c6f",
     "8c98ab15-c5df-4613-bd7b-a062ae7b0df2"
