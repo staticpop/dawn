@@ -153,10 +153,10 @@
         "template--20663922458912__f4ee90f4-49c2-4792-9d6b-2a3560d0b995-column-1": {
           "type": "column",
           "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "title": "Free Shipping Bar",
+            "text": "<p>Display the progressive Free Shipping in an announcement bar on any page.<\/p>",
+            "link_label": "See Demo",
+            "link": "\/cart"
           }
         },
         "template--20663922458912__f4ee90f4-49c2-4792-9d6b-2a3560d0b995-column-2": {
