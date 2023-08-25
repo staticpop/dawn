@@ -55,6 +55,24 @@
             "link_label": "See Demo",
             "link": ""
           }
+        },
+        "a570a3db-0790-44e2-a6ec-95b26d243fe7": {
+          "type": "column",
+          "settings": {
+            "title": "Buy One, Get One",
+            "text": "<p>Strategy offers a free product when a customer purchases one, which can motivate them to buy more.<\/p>",
+            "link_label": "See Demo",
+            "link": ""
+          }
+        },
+        "e114cc33-acb5-4a07-9554-5eea87809f45": {
+          "type": "column",
+          "settings": {
+            "title": "Reward First Time Shoppers",
+            "text": "<p>Offering a special discount for first-time shoppers can encourage them <br\/>to make their first purchase and experience your products.<\/p>",
+            "link_label": "",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -62,7 +80,9 @@
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-2",
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-3",
         "37120866-a7ad-4370-b5cb-8f548464ad1b",
-        "9be0ab9d-89f3-4191-b59d-419f088fb73d"
+        "9be0ab9d-89f3-4191-b59d-419f088fb73d",
+        "a570a3db-0790-44e2-a6ec-95b26d243fe7",
+        "e114cc33-acb5-4a07-9554-5eea87809f45"
       ],
       "settings": {
         "title": "",
