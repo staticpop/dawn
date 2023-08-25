@@ -73,6 +73,15 @@
             "link_label": "See Demo",
             "link": ""
           }
+        },
+        "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8": {
+          "type": "column",
+          "settings": {
+            "title": "Social Media and Email Promotions",
+            "text": "<p>Offer exclusive discounts to customers who follow you on social media or subscribe to your email list. This can help grow your online presence and engagement.<\/p>",
+            "link_label": "See Demo",
+            "link": ""
+          }
         }
       },
       "block_order": [
@@ -82,7 +91,8 @@
         "37120866-a7ad-4370-b5cb-8f548464ad1b",
         "9be0ab9d-89f3-4191-b59d-419f088fb73d",
         "a570a3db-0790-44e2-a6ec-95b26d243fe7",
-        "e114cc33-acb5-4a07-9554-5eea87809f45"
+        "e114cc33-acb5-4a07-9554-5eea87809f45",
+        "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8"
       ],
       "settings": {
         "title": "",
