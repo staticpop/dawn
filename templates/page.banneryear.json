@@ -46,13 +46,23 @@
             "link_label": "See Demo",
             "link": "shopify:\/\/collections\/t-shirts"
           }
+        },
+        "9be0ab9d-89f3-4191-b59d-419f088fb73d": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping Embed",
+            "text": "<p>Offering free shipping is a powerful incentive, especially if customers <br\/>are close to meeting a certain order value threshold to qualify for it.<\/p>",
+            "link_label": "See Demo",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1",
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-2",
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-3",
-        "37120866-a7ad-4370-b5cb-8f548464ad1b"
+        "37120866-a7ad-4370-b5cb-8f548464ad1b",
+        "9be0ab9d-89f3-4191-b59d-419f088fb73d"
       ],
       "settings": {
         "title": "",
