@@ -24,7 +24,7 @@
           "type": "column",
           "settings": {
             "title": "Countdown Timer",
-            "text": "<p>Hammer home urgency with our Countdown Timer Bar. Display site-wide or page-specific countdown bar & sales timers.<\/p>",
+            "text": "<p>Time-limited discounts, flash sales, or countdown timers can create a <br\/>sense of urgency, prompting customers to make quicker purchasing <br\/>decisions.<\/p>",
             "link_label": "See Demo",
             "link": "shopify:\/\/collections\/sale"
           }
