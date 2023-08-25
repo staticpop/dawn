@@ -154,7 +154,7 @@
           "type": "column",
           "settings": {
             "title": "Free Shipping Bar",
-            "text": "<p>Display the progressive Free Shipping in an announcement bar on any page.<\/p>",
+            "text": "<p>Enhance user experience by prominently featuring the dynamic Free Shipping offer in an easily noticeable announcement bar positioned at the top of every page. For example, the cart page, serving as a convenient reminder for customers how much to spend to qualify for free shipping before checking out.<\/p>",
             "link_label": "See Demo",
             "link": "\/cart"
           }
