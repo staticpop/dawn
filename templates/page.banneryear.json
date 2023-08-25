@@ -8,6 +8,24 @@
         "padding_bottom": 28
       }
     },
+    "16930040525dd54785": {
+      "type": "apps",
+      "blocks": {
+        "e16fbd06-6b17-48b6-9144-2ddd1909f38e": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "e16fbd06-6b17-48b6-9144-2ddd1909f38e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "daab7690-3460-49c6-8b6e-eb5453c54d34": {
       "type": "multicolumn",
       "blocks": {
@@ -111,6 +129,24 @@
         "padding_bottom": 36
       }
     },
+    "16930029432afe1260": {
+      "type": "apps",
+      "blocks": {
+        "4e6bfbca-1b8e-48a9-aefc-e1576a59952d": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "margin-top": 0,
+            "margin-bottom": 0
+          }
+        }
+      },
+      "block_order": [
+        "4e6bfbca-1b8e-48a9-aefc-e1576a59952d"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "f4ee90f4-49c2-4792-9d6b-2a3560d0b995": {
       "type": "multicolumn",
       "blocks": {
@@ -155,7 +191,7 @@
         "columns_desktop": 3,
         "column_alignment": "left",
         "background_style": "primary",
-        "button_label": "Button label",
+        "button_label": "",
         "button_link": "",
         "color_scheme": "",
         "columns_mobile": "1",
@@ -167,7 +203,9 @@
   },
   "order": [
     "main",
+    "16930040525dd54785",
     "daab7690-3460-49c6-8b6e-eb5453c54d34",
+    "16930029432afe1260",
     "f4ee90f4-49c2-4792-9d6b-2a3560d0b995"
   ]
 }
