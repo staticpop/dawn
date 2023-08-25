@@ -41,7 +41,7 @@
         "37120866-a7ad-4370-b5cb-8f548464ad1b": {
           "type": "column",
           "settings": {
-            "title": "Low Inventory",
+            "title": "Low Inventory Embed",
             "text": "<p>A low inventory banner creates a sense of urgency and scarcity among customers. When they see that a product is running out, they are more likely to make a purchase immediately instead of delaying their decision. This can help drive conversions and increase sales.<\/p>",
             "link_label": "See Demo",
             "link": "shopify:\/\/collections\/t-shirts"
@@ -59,7 +59,7 @@
         "a570a3db-0790-44e2-a6ec-95b26d243fe7": {
           "type": "column",
           "settings": {
-            "title": "Buy One, Get One",
+            "title": "Buy One, Get One Embed",
             "text": "<p>Strategy offers a free product when a customer purchases one, which can motivate them to buy more.<\/p>",
             "link_label": "See Demo",
             "link": ""
