@@ -67,24 +67,6 @@
         "padding_bottom": 36
       }
     },
-    "1689208118f6439c6f": {
-      "type": "apps",
-      "blocks": {
-        "283659b1-8df2-4b25-956e-c548d5c33531": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
-          "settings": {
-            "margin-top": 0,
-            "margin-bottom": 0
-          }
-        }
-      },
-      "block_order": [
-        "283659b1-8df2-4b25-956e-c548d5c33531"
-      ],
-      "settings": {
-        "include_margins": false
-      }
-    },
     "8c98ab15-c5df-4613-bd7b-a062ae7b0df2": {
       "type": "collection-list",
       "blocks": {
@@ -132,7 +114,6 @@
     "banner",
     "1693004370288debb5",
     "product-grid",
-    "1689208118f6439c6f",
     "8c98ab15-c5df-4613-bd7b-a062ae7b0df2"
   ]
 }
