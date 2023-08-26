@@ -184,8 +184,8 @@
         "template--20663922458912__f4ee90f4-49c2-4792-9d6b-2a3560d0b995-column-3"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Announcement Bars",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
