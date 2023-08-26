@@ -32,7 +32,7 @@
         "9be0ab9d-89f3-4191-b59d-419f088fb73d": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping (Homepage)",
+            "title": "Free Shipping <em>(Homepage)<\/em>",
             "text": "<p>Offering free shipping is a powerful incentive, especially if customers <br\/>are close to meeting a certain order value threshold to qualify for it.<\/p>",
             "link_label": "See Demo",
             "link": "\/"
