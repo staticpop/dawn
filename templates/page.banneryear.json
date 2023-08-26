@@ -41,7 +41,7 @@
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-2": {
           "type": "column",
           "settings": {
-            "title": "Countdown Timer",
+            "title": "Countdown (Collection Page)",
             "text": "<p>Time-limited discounts, flash sales, or countdown timers can create a <br\/>sense of urgency, prompting customers to make quicker purchasing <br\/>decisions.<\/p>",
             "link_label": "See Demo",
             "link": "shopify:\/\/collections\/sale"
