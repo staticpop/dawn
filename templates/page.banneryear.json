@@ -59,7 +59,7 @@
         "37120866-a7ad-4370-b5cb-8f548464ad1b": {
           "type": "column",
           "settings": {
-            "title": "Low Inventory Embed",
+            "title": "Low Inventory (<em>Product Page)<\/em>",
             "text": "<p>A low inventory banner creates a sense of urgency and scarcity among customers. When they see that a product is running out, they are more likely to make a purchase immediately instead of delaying their decision. This can help drive conversions and increase sales.<\/p>",
             "link_label": "See Demo",
             "link": "shopify:\/\/products\/rubytrooper"
