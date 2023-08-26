@@ -29,11 +29,11 @@
     "daab7690-3460-49c6-8b6e-eb5453c54d34": {
       "type": "multicolumn",
       "blocks": {
-        "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1": {
+        "9be0ab9d-89f3-4191-b59d-419f088fb73d": {
           "type": "column",
           "settings": {
-            "title": "Announcement Bars",
-            "text": "<p>Make your promotions stand out and capture your customers' attention with Announcement Bar - the perfect way to get your sales, specials and promos seen! You can use it as a top bar, bottom bar, or sticky bar. <br\/><\/p>",
+            "title": "Free Shipping Embed (Cart)",
+            "text": "<p>Offering free shipping is a powerful incentive, especially if customers <br\/>are close to meeting a certain order value threshold to qualify for it.<\/p>",
             "link_label": "See Demo",
             "link": "\/"
           }
@@ -65,15 +65,6 @@
             "link": "shopify:\/\/products\/rubytrooper"
           }
         },
-        "9be0ab9d-89f3-4191-b59d-419f088fb73d": {
-          "type": "column",
-          "settings": {
-            "title": "Free Shipping Embed",
-            "text": "<p>Offering free shipping is a powerful incentive, especially if customers <br\/>are close to meeting a certain order value threshold to qualify for it.<\/p>",
-            "link_label": "See Demo",
-            "link": "\/"
-          }
-        },
         "a570a3db-0790-44e2-a6ec-95b26d243fe7": {
           "type": "column",
           "settings": {
@@ -100,17 +91,26 @@
             "link_label": "See Demo",
             "link": "shopify:\/\/collections\/t-shirts"
           }
+        },
+        "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Announcement Bars",
+            "text": "<p>Make your promotions stand out and capture your customers' attention with Announcement Bar - the perfect way to get your sales, specials and promos seen! You can use it as a top bar, bottom bar, or sticky bar. <br\/><\/p>",
+            "link_label": "See Demo",
+            "link": "\/"
+          }
         }
       },
       "block_order": [
-        "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1",
+        "9be0ab9d-89f3-4191-b59d-419f088fb73d",
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-2",
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-3",
         "37120866-a7ad-4370-b5cb-8f548464ad1b",
-        "9be0ab9d-89f3-4191-b59d-419f088fb73d",
         "a570a3db-0790-44e2-a6ec-95b26d243fe7",
         "e114cc33-acb5-4a07-9554-5eea87809f45",
-        "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8"
+        "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8",
+        "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1"
       ],
       "settings": {
         "title": "Embedded Banners and Text Elements",
