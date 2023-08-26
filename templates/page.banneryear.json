@@ -113,8 +113,8 @@
         "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8"
       ],
       "settings": {
-        "title": "",
-        "heading_size": "h1",
+        "title": "Embedded Banners and Text Elements",
+        "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
         "columns_desktop": 3,
