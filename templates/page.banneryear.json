@@ -187,6 +187,36 @@
         "include_margins": true
       }
     },
+    "dc3616d9-5349-4960-a8aa-e21c770e3528": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Announcement Bars (Top & Bottom)",
+            "heading_size": "h2"
+          }
+        },
+        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Announcement bars can display along the top or bottom of your store keeping your customers aware of important promotions throughout the store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-heading-1",
+        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
     "f4ee90f4-49c2-4792-9d6b-2a3560d0b995": {
       "type": "multicolumn",
       "blocks": {
@@ -247,6 +277,7 @@
     "be915e97-df8f-4680-842f-897bb9c2008c",
     "daab7690-3460-49c6-8b6e-eb5453c54d34",
     "16930029432afe1260",
+    "dc3616d9-5349-4960-a8aa-e21c770e3528",
     "f4ee90f4-49c2-4792-9d6b-2a3560d0b995"
   ]
 }
