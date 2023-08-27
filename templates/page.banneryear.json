@@ -26,10 +26,17 @@
         "include_margins": true
       }
     },
-    "a77ca7e8-2976-4fd2-9591-403fc80e63cc": {
+    "be915e97-df8f-4680-842f-897bb9c2008c": {
       "type": "rich-text",
       "blocks": {
-        "template--20663922458912__a77ca7e8-2976-4fd2-9591-403fc80e63cc-text-1": {
+        "template--20663922458912__be915e97-df8f-4680-842f-897bb9c2008c-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Embedded Banners and Text Elements",
+            "heading_size": "h2"
+          }
+        },
+        "template--20663922458912__be915e97-df8f-4680-842f-897bb9c2008c-text-1": {
           "type": "text",
           "settings": {
             "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
@@ -37,15 +44,16 @@
         }
       },
       "block_order": [
-        "template--20663922458912__a77ca7e8-2976-4fd2-9591-403fc80e63cc-text-1"
+        "template--20663922458912__be915e97-df8f-4680-842f-897bb9c2008c-heading-1",
+        "template--20663922458912__be915e97-df8f-4680-842f-897bb9c2008c-text-1"
       ],
       "settings": {
-        "desktop_content_position": "center",
-        "content_alignment": "center",
+        "desktop_content_position": "left",
+        "content_alignment": "left",
         "color_scheme": "",
         "full_width": true,
         "padding_top": 40,
-        "padding_bottom": 52
+        "padding_bottom": 0
       }
     },
     "daab7690-3460-49c6-8b6e-eb5453c54d34": {
@@ -145,7 +153,7 @@
         "525f6565-85f8-4d1c-bbc3-1a7887f30d7c"
       ],
       "settings": {
-        "title": "Embedded Banners and Text Elements",
+        "title": "",
         "heading_size": "h2",
         "image_width": "full",
         "image_ratio": "adapt",
@@ -236,7 +244,7 @@
   "order": [
     "main",
     "16930040525dd54785",
-    "a77ca7e8-2976-4fd2-9591-403fc80e63cc",
+    "be915e97-df8f-4680-842f-897bb9c2008c",
     "daab7690-3460-49c6-8b6e-eb5453c54d34",
     "16930029432afe1260",
     "f4ee90f4-49c2-4792-9d6b-2a3560d0b995"
