@@ -90,7 +90,7 @@
           "type": "column",
           "settings": {
             "title": "Low Inventory (<em>Product Page)<\/em>",
-            "text": "<p>A low inventory banner creates a sense of urgency and scarcity among customers. When they see that a product is running out, they are more likely to make a purchase immediately instead of delaying their decision. This can help drive conversions and increase sales.<\/p>",
+            "text": "<p>A low inventory banner creates a sense of urgency and scarcity among customers. When they see that a product is running out, they are more likely to make a purchase immediately instead of delaying their decision.<\/p>",
             "link_label": "See Demo",
             "link": "shopify:\/\/products\/rubytrooper"
           }
@@ -98,7 +98,7 @@
         "a570a3db-0790-44e2-a6ec-95b26d243fe7": {
           "type": "column",
           "settings": {
-            "title": "Buy One, Get One Embed",
+            "title": "Buy One, Get One <em>(Product Page)<\/em>",
             "text": "<p>Strategy offers a free product when a customer purchases one, which can motivate them to buy more.<\/p>",
             "link_label": "See Demo",
             "link": "shopify:\/\/products\/ruby-nasa-sticker"
