@@ -77,6 +77,15 @@
             "link": "shopify:\/\/collections\/sale"
           }
         },
+        "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1": {
+          "type": "column",
+          "settings": {
+            "title": "Countdown (<em>Product Page)<\/em>",
+            "text": "<p>Let customers know sale ends on specific products just above the Add to Cart button.<br\/><\/p>",
+            "link_label": "See Campaign",
+            "link": "\/"
+          }
+        },
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-3": {
           "type": "column",
           "settings": {
@@ -84,6 +93,15 @@
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
             "link_label": "See Campaign",
             "link": "shopify:\/\/collections\/stickers"
+          }
+        },
+        "525f6565-85f8-4d1c-bbc3-1a7887f30d7c": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping <em>(Product Page)<\/em>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "See Campaign",
+            "link": ""
           }
         },
         "37120866-a7ad-4370-b5cb-8f548464ad1b": {
@@ -121,36 +139,18 @@
             "link_label": "See Campaign",
             "link": "shopify:\/\/collections\/t-shirts"
           }
-        },
-        "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1": {
-          "type": "column",
-          "settings": {
-            "title": "Countdown (<em>Product Page)<\/em>",
-            "text": "<p>Let customers know sale ends on specific products just above the Add to Cart button.<br\/><\/p>",
-            "link_label": "See Campaign",
-            "link": "\/"
-          }
-        },
-        "525f6565-85f8-4d1c-bbc3-1a7887f30d7c": {
-          "type": "column",
-          "settings": {
-            "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
-          }
         }
       },
       "block_order": [
         "9be0ab9d-89f3-4191-b59d-419f088fb73d",
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-2",
+        "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1",
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-3",
+        "525f6565-85f8-4d1c-bbc3-1a7887f30d7c",
         "37120866-a7ad-4370-b5cb-8f548464ad1b",
         "a570a3db-0790-44e2-a6ec-95b26d243fe7",
         "e114cc33-acb5-4a07-9554-5eea87809f45",
-        "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8",
-        "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1",
-        "525f6565-85f8-4d1c-bbc3-1a7887f30d7c"
+        "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8"
       ],
       "settings": {
         "title": "",
