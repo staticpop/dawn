@@ -234,8 +234,8 @@
           "settings": {
             "title": "Announcement <em>(Home page)<\/em>",
             "text": "<p>Make your promotions stand out and capture your customers' attention with Announcement Bar - the perfect way to get your sales, specials and promos seen! You can use it as a top bar, bottom bar, or sticky bar.<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "See Campaign",
+            "link": "\/"
           }
         },
         "template--20663922458912__f4ee90f4-49c2-4792-9d6b-2a3560d0b995-column-3": {
@@ -243,8 +243,8 @@
           "settings": {
             "title": "Announcement <em>(Custom page)<\/em>",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "",
-            "link": ""
+            "link_label": "See Campaign",
+            "link": "shopify:\/\/pages\/about"
           }
         }
       },
