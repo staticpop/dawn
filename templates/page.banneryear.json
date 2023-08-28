@@ -125,8 +125,8 @@
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1": {
           "type": "column",
           "settings": {
-            "title": "Announcement Bars",
-            "text": "<p>Make your promotions stand out and capture your customers' attention with Announcement Bar - the perfect way to get your sales, specials and promos seen! You can use it as a top bar, bottom bar, or sticky bar. <br\/><\/p>",
+            "title": "Countdown (<em>Product Page)<\/em>",
+            "text": "<p>Let customers know sale ends on specific products just above the Add to Cart button.<br\/><\/p>",
             "link_label": "See Demo",
             "link": "\/"
           }
