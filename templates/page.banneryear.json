@@ -64,7 +64,7 @@
           "settings": {
             "title": "Free Shipping <em>(Homepage)<\/em>",
             "text": "<p>Offering free shipping is a powerful incentive, especially if customers <br\/>are close to meeting a certain order value threshold to qualify for it.<\/p>",
-            "link_label": "See Demo",
+            "link_label": "See Campaign",
             "link": "\/"
           }
         },
@@ -73,7 +73,7 @@
           "settings": {
             "title": "Countdown (Collection Page)",
             "text": "<p>Time-limited discounts, flash sales, or countdown timers can create a <br\/>sense of urgency, prompting customers to make quicker purchasing <br\/>decisions.<\/p>",
-            "link_label": "See Demo",
+            "link_label": "See Campaign",
             "link": "shopify:\/\/collections\/sale"
           }
         },
@@ -91,7 +91,7 @@
           "settings": {
             "title": "Low Inventory (<em>Product Page)<\/em>",
             "text": "<p>A low inventory banner creates a sense of urgency and scarcity among customers. When they see that a product is running out, they are more likely to make a purchase immediately instead of delaying their decision.<\/p>",
-            "link_label": "See Demo",
+            "link_label": "See Campaign",
             "link": "shopify:\/\/products\/rubytrooper"
           }
         },
@@ -100,7 +100,7 @@
           "settings": {
             "title": "Buy One, Get One <em>(Product Page)<\/em>",
             "text": "<p>Strategy offers a free product when a customer purchases one, which can motivate them to buy more.<\/p>",
-            "link_label": "See Demo",
+            "link_label": "See Campaign",
             "link": "shopify:\/\/products\/ruby-nasa-sticker"
           }
         },
@@ -109,7 +109,7 @@
           "settings": {
             "title": "Reward First Time Shoppers",
             "text": "<p>Offering a special discount for first-time shoppers can encourage them <br\/>to make their first purchase and experience your products.<\/p>",
-            "link_label": "See Demo",
+            "link_label": "See Campaign",
             "link": ""
           }
         },
@@ -118,7 +118,7 @@
           "settings": {
             "title": "Social Media and Email Promotions",
             "text": "<p>Offer exclusive discounts to customers who follow you on social media or subscribe to your email list. This can help grow your online presence and engagement.<\/p>",
-            "link_label": "See Demo",
+            "link_label": "See Campaign",
             "link": "shopify:\/\/collections\/t-shirts"
           }
         },
@@ -127,7 +127,7 @@
           "settings": {
             "title": "Countdown (<em>Product Page)<\/em>",
             "text": "<p>Let customers know sale ends on specific products just above the Add to Cart button.<br\/><\/p>",
-            "link_label": "See Demo",
+            "link_label": "See Campaign",
             "link": "\/"
           }
         },
