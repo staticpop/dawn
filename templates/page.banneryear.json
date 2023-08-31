@@ -14,8 +14,9 @@
         "e16fbd06-6b17-48b6-9144-2ddd1909f38e": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
-            "margin-top": 20,
-            "margin-bottom": 0
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0
           }
         }
       },
@@ -175,8 +176,9 @@
         "4e6bfbca-1b8e-48a9-aefc-e1576a59952d": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
-            "margin-top": 10,
-            "margin-bottom": 10
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0
           }
         }
       },
@@ -223,7 +225,7 @@
         "template--20663922458912__f4ee90f4-49c2-4792-9d6b-2a3560d0b995-column-1": {
           "type": "column",
           "settings": {
-            "title": "Free Shipping Bar",
+            "title": "Free Shipping Bar <em>(Cart page)<\/em>",
             "text": "<p>Enhance user experience by prominently featuring the dynamic Free Shipping offer in an easily noticeable announcement bar positioned at the top of every page. For example, the cart page, serving as a convenient reminder for customers how much to spend to qualify for free shipping before checking out.<\/p>",
             "link_label": "See Demo",
             "link": "\/cart"
@@ -276,8 +278,9 @@
         "91bdd0a5-1768-470f-8309-e969e95d1cfc": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
-            "margin-top": 0,
-            "margin-bottom": 0
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0
           }
         }
       },
