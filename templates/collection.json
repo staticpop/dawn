@@ -6,8 +6,9 @@
         "4b32e3d4-d531-414d-8773-f17ea1c93298": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
-            "margin-top": 20,
-            "margin-bottom": 0
+            "margin_top": 20,
+            "margin_bottom": 0,
+            "minimum_height": 0
           }
         }
       },
