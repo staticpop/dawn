@@ -82,9 +82,9 @@
           "type": "column",
           "settings": {
             "title": "Countdown (<em>Product Page)<\/em>",
-            "text": "<p>Let customers know sale ends on specific products just above the Add to Cart button.<br\/><\/p>",
+            "text": "<p>Let customers know sale ends on specific products just above the <em>Add to Cart <\/em>button. Also displays a cool animated icon!<br\/><\/p>",
             "link_label": "See Campaign",
-            "link": "\/"
+            "link": "shopify:\/\/products\/i-heart-ruby"
           }
         },
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-3": {
