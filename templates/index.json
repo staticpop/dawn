@@ -6,8 +6,9 @@
         "264f52de-b3de-41f4-8c36-1735f05bfd37": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
-            "margin-top": 20,
-            "margin-bottom": 0
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0
           }
         }
       },
@@ -79,8 +80,9 @@
         "85720f6c-d633-4fa9-b267-5d1b7cd6f3ec": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
-            "margin-top": 0,
-            "margin-bottom": 0
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 100
           }
         }
       },
@@ -125,8 +127,9 @@
         "8ce54cb3-b4b3-42b7-831b-e5e0d3b32d64": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
-            "margin-top": 0,
-            "margin-bottom": 0
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0
           }
         }
       },
