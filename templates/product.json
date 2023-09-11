@@ -6,6 +6,9 @@
         "008f599e-b122-4458-aecd-9a9158753b8c": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0
           }
         }
       },
@@ -47,9 +50,18 @@
           "settings": {
           }
         },
+        "3b135d7c-9631-4d48-b5f3-ed62fa781700": {
+          "type": "shopify:\/\/apps\/essential-countdown\/blocks\/app-block\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        },
         "8dc8bae0-7819-4ace-977b-cbad298702e8": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0
           }
         },
         "buy_buttons": {
@@ -123,6 +135,7 @@
         "price",
         "variant_picker",
         "quantity_selector",
+        "3b135d7c-9631-4d48-b5f3-ed62fa781700",
         "8dc8bae0-7819-4ace-977b-cbad298702e8",
         "buy_buttons",
         "collapsible-row-2",
@@ -206,6 +219,9 @@
         "a2bbb0b6-16a1-4abb-a2e3-cd8af95fc654": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0
           }
         }
       },
