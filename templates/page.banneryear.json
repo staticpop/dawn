@@ -290,6 +290,49 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "afb73b36-e93a-4a21-b4b2-ce8c529deec0": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20663922458912__afb73b36-e93a-4a21-b4b2-ce8c529deec0-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Start Your BannerYear Today",
+            "heading_size": "h2"
+          }
+        },
+        "template--20663922458912__afb73b36-e93a-4a21-b4b2-ce8c529deec0-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Share information about your brand with your customers. Describe a product, make announcements, or welcome customers to your store.<\/p>"
+          }
+        },
+        "template--20663922458912__afb73b36-e93a-4a21-b4b2-ce8c529deec0-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "Install App",
+            "button_link": "https:\/\/apps.shopify.com\/banner-year-announcement-bars",
+            "button_style_secondary": false,
+            "button_label_2": "",
+            "button_link_2": "",
+            "button_style_secondary_2": false
+          }
+        }
+      },
+      "block_order": [
+        "template--20663922458912__afb73b36-e93a-4a21-b4b2-ce8c529deec0-heading-1",
+        "template--20663922458912__afb73b36-e93a-4a21-b4b2-ce8c529deec0-text-1",
+        "template--20663922458912__afb73b36-e93a-4a21-b4b2-ce8c529deec0-button-1"
+      ],
+      "settings": {
+        "desktop_content_position": "center",
+        "content_alignment": "center",
+        "color_scheme": "background-1",
+        "full_width": false,
+        "padding_top": 40,
+        "padding_bottom": 52
+      }
     }
   },
   "order": [
@@ -300,6 +343,7 @@
     "16930029432afe1260",
     "dc3616d9-5349-4960-a8aa-e21c770e3528",
     "f4ee90f4-49c2-4792-9d6b-2a3560d0b995",
-    "169335246357aa7134"
+    "169335246357aa7134",
+    "afb73b36-e93a-4a21-b4b2-ce8c529deec0"
   ]
 }
