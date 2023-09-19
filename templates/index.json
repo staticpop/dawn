@@ -213,6 +213,25 @@
         "padding_bottom": 36
       }
     },
+    "169514582859ef9995": {
+      "type": "apps",
+      "blocks": {
+        "69962400-88c2-4e44-ad22-6a8e9124bdf6": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0
+          }
+        }
+      },
+      "block_order": [
+        "69962400-88c2-4e44-ad22-6a8e9124bdf6"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "collage": {
       "type": "collage",
       "blocks": {
@@ -376,6 +395,7 @@
     "1692837974d97b9a32",
     "73e79dca-f168-4467-b239-ec944d8fb097",
     "6f44e7a5-79af-4894-b0de-ce4eef3b1bd4",
+    "169514582859ef9995",
     "collage",
     "9b4ead34-82da-4c28-aeec-a0b37e8b44d8",
     "00c368b7-2bef-4726-b0a4-321a27f04217",
