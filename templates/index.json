@@ -44,17 +44,18 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "heading": "Image slide",
-            "heading_size": "h1",
-            "subheading": "Tell your brand's story through images",
-            "button_label": "Button label",
+            "image": "shopify:\/\/shop_images\/ruby-or-die-header_119c6878-8953-4a72-8a9c-3efd28c2c3cd.png",
+            "heading": "New Hallow's Eve Collection",
+            "heading_size": "h2",
+            "subheading": "Order now for your Halloween",
+            "button_label": "SHOP SPOOKY COLLECTION →",
             "link": "",
-            "button_style_secondary": false,
-            "box_align": "middle-center",
+            "button_style_secondary": true,
+            "box_align": "bottom-left",
             "show_text_box": true,
-            "text_alignment": "center",
+            "text_alignment": "left",
             "image_overlay_opacity": 0,
-            "color_scheme": "",
+            "color_scheme": "accent-1",
             "text_alignment_mobile": "center"
           }
         }
