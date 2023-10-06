@@ -45,10 +45,10 @@
           "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ruby-or-die-header_119c6878-8953-4a72-8a9c-3efd28c2c3cd.png",
-            "heading": "Our Spooky Ruby Collection",
+            "heading": "Spooky Ruby Collection",
             "heading_size": "h2",
             "subheading": "Order now for your Hallow's Eve party",
-            "button_label": "SHOP SPOOKY COLLECTION →",
+            "button_label": "SHOP NOW →",
             "link": "",
             "button_style_secondary": true,
             "box_align": "bottom-left",
