@@ -60,14 +60,13 @@
         },
         "e7478a3d-9e39-4151-8cb6-b5364d3f624c": {
           "type": "slide",
-          "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/smitten-kitten-header.jpg",
             "heading": "For the Purr-fect Style Statement",
             "heading_size": "h2",
             "subheading": "Shop the Cat-Ruby Love Styles!",
             "button_label": "SHOP NOW →",
-            "link": "",
+            "link": "shopify:\/\/collections\/kitty-cats",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
