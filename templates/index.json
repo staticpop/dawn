@@ -22,15 +22,15 @@
     "3b2014bb-58eb-40e4-9a18-7f05adbac8b8": {
       "type": "slideshow",
       "blocks": {
-        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-0": {
+        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-1": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lost-in-ruby-header_b72129af-8f38-4f7a-bc21-4aa69abbf5be.jpg",
-            "heading": "Explore the Universe of Ruby",
+            "image": "shopify:\/\/shop_images\/ruby-or-die-header_769151f1-940e-40a1-b428-2cb4b0f800c2.jpg",
+            "heading": "Spooky Ruby Collection",
             "heading_size": "h2",
-            "subheading": "Our Space-Themed Collection Now Available",
+            "subheading": "Order now for your Hallow's Eve party",
             "button_label": "SHOP NOW →",
-            "link": "shopify:\/\/collections\/lost-in-ruby",
+            "link": "shopify:\/\/collections\/halloween",
             "button_style_secondary": true,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -40,16 +40,15 @@
             "text_alignment_mobile": "center"
           }
         },
-        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-1": {
+        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-0": {
           "type": "slide",
-          "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/ruby-or-die-header_769151f1-940e-40a1-b428-2cb4b0f800c2.jpg",
-            "heading": "Spooky Ruby Collection",
+            "image": "shopify:\/\/shop_images\/lost-in-ruby-header_b72129af-8f38-4f7a-bc21-4aa69abbf5be.jpg",
+            "heading": "Explore the Universe of Ruby",
             "heading_size": "h2",
-            "subheading": "Order now for your Hallow's Eve party",
+            "subheading": "Our Space-Themed Collection Now Available",
             "button_label": "SHOP NOW →",
-            "link": "",
+            "link": "shopify:\/\/collections\/lost-in-ruby",
             "button_style_secondary": true,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -80,8 +79,8 @@
         }
       },
       "block_order": [
-        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-0",
         "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-1",
+        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-0",
         "e7478a3d-9e39-4151-8cb6-b5364d3f624c"
       ],
       "settings": {
