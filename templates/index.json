@@ -44,7 +44,7 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/ruby-or-die-header_119c6878-8953-4a72-8a9c-3efd28c2c3cd.png",
+            "image": "shopify:\/\/shop_images\/ruby-or-die-header_58a2045a-f160-4189-a19f-4543267aca6d.png",
             "heading": "Spooky Ruby Collection",
             "heading_size": "h2",
             "subheading": "Order now for your Hallow's Eve party",
@@ -52,7 +52,7 @@
             "link": "",
             "button_style_secondary": true,
             "box_align": "bottom-left",
-            "show_text_box": true,
+            "show_text_box": false,
             "text_alignment": "left",
             "image_overlay_opacity": 0,
             "color_scheme": "accent-1",
