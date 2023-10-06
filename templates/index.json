@@ -45,9 +45,9 @@
           "disabled": true,
           "settings": {
             "image": "shopify:\/\/shop_images\/ruby-or-die-header_119c6878-8953-4a72-8a9c-3efd28c2c3cd.png",
-            "heading": "New Hallow's Eve Collection",
+            "heading": "Our Spooky Ruby Collection",
             "heading_size": "h2",
-            "subheading": "Order now for your Halloween",
+            "subheading": "Order now for your Hallow's Eve party",
             "button_label": "SHOP SPOOKY COLLECTION →",
             "link": "",
             "button_style_secondary": true,
@@ -66,7 +66,7 @@
       ],
       "settings": {
         "layout": "grid",
-        "slide_height": "large",
+        "slide_height": "adapt_image",
         "slider_visual": "dots",
         "auto_rotate": false,
         "change_slides_speed": 5,
