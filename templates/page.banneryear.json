@@ -34,14 +34,14 @@
         "template--20663922458912__be915e97-df8f-4680-842f-897bb9c2008c-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Embedded Banners and Text Elements",
+            "heading": "Embedded Banners",
             "heading_size": "h2"
           }
         },
         "template--20663922458912__be915e97-df8f-4680-842f-897bb9c2008c-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Embedded campaigns can be integrated into various pages, including Product and Collection pages.<\/p>"
+            "text": "<p>Embedded campaigns can be integrated inside various pages, including Product and Collection pages.<\/p>"
           }
         }
       },
