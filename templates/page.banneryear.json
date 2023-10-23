@@ -16,7 +16,8 @@
           "settings": {
             "margin_top": 20,
             "margin_bottom": 0,
-            "minimum_height": 100
+            "minimum_height": 100,
+            "background_color": "transparent"
           }
         }
       },
@@ -71,6 +72,7 @@
         },
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Countdown (Collection Page)",
             "text": "<p>Time-limited discounts, flash sales, or countdown timers can create a <br\/>sense of urgency, prompting customers to make quicker purchasing <br\/>decisions.<\/p>",
@@ -80,6 +82,7 @@
         },
         "template--20663922458912__daab7690-3460-49c6-8b6e-eb5453c54d34-column-1": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Countdown (<em>Product Page)<\/em>",
             "text": "<p>Let customers know sale ends on specific products just above the <em>Add to Cart <\/em>button. Also displays a cool animated icon!<br\/><\/p>",
@@ -123,20 +126,20 @@
             "link": "shopify:\/\/products\/ruby-nasa-sticker"
           }
         },
-        "e114cc33-acb5-4a07-9554-5eea87809f45": {
-          "type": "column",
-          "settings": {
-            "title": "Reward First Time Shoppers",
-            "text": "<p>Offering a special discount for first-time shoppers can encourage them <br\/>to make their first purchase and experience your products.<\/p>",
-            "link_label": "See Campaign",
-            "link": "shopify:\/\/collections\/t-shirts"
-          }
-        },
         "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8": {
           "type": "column",
           "settings": {
             "title": "Social Media and Email Promotions",
             "text": "<p>Offer exclusive discounts to customers who follow you on social media or subscribe to your email list. This can help grow your online presence and engagement.<\/p>",
+            "link_label": "See Campaign",
+            "link": "shopify:\/\/collections\/t-shirts"
+          }
+        },
+        "e114cc33-acb5-4a07-9554-5eea87809f45": {
+          "type": "column",
+          "settings": {
+            "title": "Reward First Time Shoppers",
+            "text": "<p>Offering a special discount for first-time shoppers can encourage them <br\/>to make their first purchase and experience your products.<\/p>",
             "link_label": "See Campaign",
             "link": "shopify:\/\/collections\/t-shirts"
           }
@@ -150,8 +153,102 @@
         "525f6565-85f8-4d1c-bbc3-1a7887f30d7c",
         "37120866-a7ad-4370-b5cb-8f548464ad1b",
         "a570a3db-0790-44e2-a6ec-95b26d243fe7",
-        "e114cc33-acb5-4a07-9554-5eea87809f45",
-        "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8"
+        "54ba86cb-5fe7-4a30-8877-4cb6b1db2ec8",
+        "e114cc33-acb5-4a07-9554-5eea87809f45"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1698104300f62f2898": {
+      "type": "apps",
+      "blocks": {
+        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0,
+            "background_color": "transparent"
+          }
+        }
+      },
+      "block_order": [
+        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "dc3616d9-5349-4960-a8aa-e21c770e3528": {
+      "type": "rich-text",
+      "blocks": {
+        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Countdown Timers",
+            "heading_size": "h2"
+          }
+        },
+        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-text-1": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Announcement bars can display along the top or bottom of your store keeping your customers aware of important promotions throughout the store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-heading-1",
+        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "d4c2a0f1-bdce-4492-b757-284a1ff5f2f5": {
+      "type": "multicolumn",
+      "blocks": {
+        "8ba703a8-5a80-4803-a3e8-1587876eb43a": {
+          "type": "column",
+          "settings": {
+            "title": "Countdown (Collection Page)",
+            "text": "<p>Time-limited discounts, flash sales, or countdown timers can create a <br\/>sense of urgency, prompting customers to make quicker purchasing <br\/>decisions.<\/p>",
+            "link_label": "See Campaign",
+            "link": "shopify:\/\/collections\/sale"
+          }
+        },
+        "f971be66-de10-47ff-926b-da25a3d50b11": {
+          "type": "column",
+          "settings": {
+            "title": "Countdown (<em>Product Page)<\/em>",
+            "text": "<p>Let customers know sale ends on specific products just above the <em>Add to Cart <\/em>button. Also displays a cool animated icon!<br\/><\/p>",
+            "link_label": "See Campaign",
+            "link": "shopify:\/\/products\/i-heart-ruby"
+          }
+        }
+      },
+      "block_order": [
+        "8ba703a8-5a80-4803-a3e8-1587876eb43a",
+        "f971be66-de10-47ff-926b-da25a3d50b11"
       ],
       "settings": {
         "title": "",
@@ -178,7 +275,8 @@
           "settings": {
             "margin_top": 0,
             "margin_bottom": 0,
-            "minimum_height": 100
+            "minimum_height": 100,
+            "background_color": "transparent"
           }
         }
       },
@@ -189,17 +287,17 @@
         "include_margins": true
       }
     },
-    "dc3616d9-5349-4960-a8aa-e21c770e3528": {
+    "5c2f5dd0-aa69-48ac-9477-b32c956faea2": {
       "type": "rich-text",
       "blocks": {
-        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-heading-1": {
+        "91de463b-0bdc-49f1-87bc-d16fa8c4a264": {
           "type": "heading",
           "settings": {
             "heading": "Announcement Bars (Top & Bottom)",
             "heading_size": "h2"
           }
         },
-        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-text-1": {
+        "bd3edabe-2953-4362-b6c2-0432ebc3d370": {
           "type": "text",
           "settings": {
             "text": "<p>Announcement bars can display along the top or bottom of your store keeping your customers aware of important promotions throughout the store.<\/p>"
@@ -207,8 +305,8 @@
         }
       },
       "block_order": [
-        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-heading-1",
-        "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-text-1"
+        "91de463b-0bdc-49f1-87bc-d16fa8c4a264",
+        "bd3edabe-2953-4362-b6c2-0432ebc3d370"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -280,7 +378,8 @@
           "settings": {
             "margin_top": 0,
             "margin_bottom": 0,
-            "minimum_height": 0
+            "minimum_height": 0,
+            "background_color": "transparent"
           }
         }
       },
@@ -339,8 +438,11 @@
     "16930040525dd54785",
     "be915e97-df8f-4680-842f-897bb9c2008c",
     "daab7690-3460-49c6-8b6e-eb5453c54d34",
-    "16930029432afe1260",
+    "1698104300f62f2898",
     "dc3616d9-5349-4960-a8aa-e21c770e3528",
+    "d4c2a0f1-bdce-4492-b757-284a1ff5f2f5",
+    "16930029432afe1260",
+    "5c2f5dd0-aa69-48ac-9477-b32c956faea2",
     "f4ee90f4-49c2-4792-9d6b-2a3560d0b995",
     "169335246357aa7134",
     "afb73b36-e93a-4a21-b4b2-ce8c529deec0"
