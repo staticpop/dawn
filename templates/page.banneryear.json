@@ -17,7 +17,7 @@
             "margin_top": 20,
             "margin_bottom": 0,
             "minimum_height": 100,
-            "background_color": "transparent"
+            "background_color": "rgba(0,0,0,0)"
           }
         }
       },
@@ -63,6 +63,7 @@
       "blocks": {
         "9be0ab9d-89f3-4191-b59d-419f088fb73d": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Free Shipping <em>(Homepage)<\/em>",
             "text": "<p>Offering free shipping is a powerful incentive, especially if customers <br\/>are close to meeting a certain order value threshold to qualify for it.<\/p>",
@@ -101,6 +102,7 @@
         },
         "525f6565-85f8-4d1c-bbc3-1a7887f30d7c": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Free Shipping <em>(Product Page)<\/em>",
             "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
@@ -173,10 +175,10 @@
         "padding_bottom": 36
       }
     },
-    "1698104300f62f2898": {
+    "1698105026543a3e18": {
       "type": "apps",
       "blocks": {
-        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4": {
+        "e700f5d3-f428-437d-9ad4-f68a37e83487": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
             "margin_top": 0,
@@ -187,7 +189,7 @@
         }
       },
       "block_order": [
-        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4"
+        "e700f5d3-f428-437d-9ad4-f68a37e83487"
       ],
       "settings": {
         "include_margins": true
@@ -199,7 +201,7 @@
         "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Countdown Timers",
+            "heading": "Free Shipping Banners",
             "heading_size": "h2"
           }
         },
@@ -214,6 +216,110 @@
       "block_order": [
         "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-heading-1",
         "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-text-1"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "64b45c59-c3be-4113-9f16-a71f4528c726": {
+      "type": "multicolumn",
+      "blocks": {
+        "0beff23d-dd40-41ca-bcc2-5ab5c661846b": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping <em>(Homepage)<\/em>",
+            "text": "<p>Offering free shipping is a powerful incentive, especially if customers <br\/>are close to meeting a certain order value threshold to qualify for it.<\/p>",
+            "link_label": "See Campaign",
+            "link": "\/"
+          }
+        },
+        "5dcf96fb-9294-4584-83ba-e22959279fb4": {
+          "type": "column",
+          "settings": {
+            "title": "Free Shipping <em>(Product Page)<\/em>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "link_label": "See Campaign",
+            "link": "shopify:\/\/products\/cat-ruby"
+          }
+        },
+        "7dae6db1-a9e1-4739-bff7-53811294dae2": {
+          "type": "column",
+          "settings": {
+            "title": "Low Inventory (<em>Product Page)<\/em>",
+            "text": "<p>A low inventory banner creates a sense of urgency and scarcity among customers. When they see that a product is running out, they are more likely to make a purchase immediately instead of delaying their decision.<\/p>",
+            "link_label": "See Campaign",
+            "link": "shopify:\/\/products\/rubytrooper"
+          }
+        }
+      },
+      "block_order": [
+        "0beff23d-dd40-41ca-bcc2-5ab5c661846b",
+        "5dcf96fb-9294-4584-83ba-e22959279fb4",
+        "7dae6db1-a9e1-4739-bff7-53811294dae2"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "1698104300f62f2898": {
+      "type": "apps",
+      "blocks": {
+        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0,
+            "background_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "d885ebea-b57c-4841-ad1f-de35b15f6390": {
+      "type": "rich-text",
+      "blocks": {
+        "4d31e4f1-dd93-4891-b73f-bce94f6779ac": {
+          "type": "heading",
+          "settings": {
+            "heading": "Countdown Timers",
+            "heading_size": "h2"
+          }
+        },
+        "6134e40d-d59e-42d3-a1b5-af29af57a3c0": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "text": "<p>Announcement bars can display along the top or bottom of your store keeping your customers aware of important promotions throughout the store.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4d31e4f1-dd93-4891-b73f-bce94f6779ac",
+        "6134e40d-d59e-42d3-a1b5-af29af57a3c0"
       ],
       "settings": {
         "desktop_content_position": "left",
@@ -276,7 +382,7 @@
             "margin_top": 0,
             "margin_bottom": 0,
             "minimum_height": 100,
-            "background_color": "transparent"
+            "background_color": "rgba(0,0,0,0)"
           }
         }
       },
@@ -379,7 +485,7 @@
             "margin_top": 0,
             "margin_bottom": 0,
             "minimum_height": 0,
-            "background_color": "transparent"
+            "background_color": "rgba(0,0,0,0)"
           }
         }
       },
@@ -438,8 +544,11 @@
     "16930040525dd54785",
     "be915e97-df8f-4680-842f-897bb9c2008c",
     "daab7690-3460-49c6-8b6e-eb5453c54d34",
-    "1698104300f62f2898",
+    "1698105026543a3e18",
     "dc3616d9-5349-4960-a8aa-e21c770e3528",
+    "64b45c59-c3be-4113-9f16-a71f4528c726",
+    "1698104300f62f2898",
+    "d885ebea-b57c-4841-ad1f-de35b15f6390",
     "d4c2a0f1-bdce-4492-b757-284a1ff5f2f5",
     "16930029432afe1260",
     "5c2f5dd0-aa69-48ac-9477-b32c956faea2",
