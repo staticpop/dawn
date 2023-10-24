@@ -35,14 +35,14 @@
         "template--20663922458912__be915e97-df8f-4680-842f-897bb9c2008c-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Embedded Banners",
+            "heading": "Announcement Banners",
             "heading_size": "h2"
           }
         },
         "template--20663922458912__be915e97-df8f-4680-842f-897bb9c2008c-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Embedded campaigns can be integrated inside various pages, including Product and Collection pages.<\/p>"
+            "text": "<p>Embedded announcement can be integrated inside various pages, including Product and Collection pages.<\/p>"
           }
         }
       },
@@ -209,9 +209,8 @@
         },
         "template--20663922458912__dc3616d9-5349-4960-a8aa-e21c770e3528-text-1": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Announcement bars can display along the top or bottom of your store keeping your customers aware of important promotions throughout the store.<\/p>"
+            "text": "<p>Embed free shipping banners to show how much more shoppers need to purchase for Free Shipping.<\/p>"
           }
         }
       },
@@ -315,9 +314,8 @@
         },
         "6134e40d-d59e-42d3-a1b5-af29af57a3c0": {
           "type": "text",
-          "disabled": true,
           "settings": {
-            "text": "<p>Announcement bars can display along the top or bottom of your store keeping your customers aware of important promotions throughout the store.<\/p>"
+            "text": "<p>Embed Countdown clocks into products and other pages encourage shoppers to buy before sales end.<\/p>"
           }
         }
       },
