@@ -247,11 +247,21 @@
             "link_label": "See Campaign",
             "link": "shopify:\/\/products\/i-heart-ruby"
           }
+        },
+        "d81a362e-5bb3-4bdb-ad37-4dd908e3d7c8": {
+          "type": "column",
+          "settings": {
+            "title": "Daily Recurring Countdown",
+            "text": "<p>Set a <em><strong>start<\/strong><\/em> <em><strong>and<\/strong><\/em> <em><strong>end hour<\/strong><\/em> for when the clock to countdown between.  Let shoppers know to order soon for same-day shipping for example. You can also user the shopper's timezone!<\/p>",
+            "link_label": "See Campaign",
+            "link": ""
+          }
         }
       },
       "block_order": [
         "8ba703a8-5a80-4803-a3e8-1587876eb43a",
-        "f971be66-de10-47ff-926b-da25a3d50b11"
+        "f971be66-de10-47ff-926b-da25a3d50b11",
+        "d81a362e-5bb3-4bdb-ad37-4dd908e3d7c8"
       ],
       "settings": {
         "title": "",
