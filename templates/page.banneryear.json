@@ -176,6 +176,100 @@
         "padding_bottom": 36
       }
     },
+    "1698104300f62f2898": {
+      "type": "apps",
+      "blocks": {
+        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "name": "Countdown PH",
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0,
+            "background_color": "rgba(0,0,0,0)"
+          }
+        }
+      },
+      "block_order": [
+        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
+    "d885ebea-b57c-4841-ad1f-de35b15f6390": {
+      "type": "rich-text",
+      "blocks": {
+        "4d31e4f1-dd93-4891-b73f-bce94f6779ac": {
+          "type": "heading",
+          "settings": {
+            "heading": "Countdown Timers",
+            "heading_size": "h2"
+          }
+        },
+        "6134e40d-d59e-42d3-a1b5-af29af57a3c0": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Embed Countdown clocks into products and other pages encourage shoppers to buy before sales end.<\/p>"
+          }
+        }
+      },
+      "block_order": [
+        "4d31e4f1-dd93-4891-b73f-bce94f6779ac",
+        "6134e40d-d59e-42d3-a1b5-af29af57a3c0"
+      ],
+      "settings": {
+        "desktop_content_position": "left",
+        "content_alignment": "left",
+        "color_scheme": "",
+        "full_width": true,
+        "padding_top": 40,
+        "padding_bottom": 0
+      }
+    },
+    "d4c2a0f1-bdce-4492-b757-284a1ff5f2f5": {
+      "type": "multicolumn",
+      "blocks": {
+        "8ba703a8-5a80-4803-a3e8-1587876eb43a": {
+          "type": "column",
+          "settings": {
+            "title": "Countdown (Collection Page)",
+            "text": "<p>Time-limited discounts, flash sales, or countdown timers can create a <br\/>sense of urgency, prompting customers to make quicker purchasing <br\/>decisions.<\/p>",
+            "link_label": "See Campaign",
+            "link": "shopify:\/\/collections\/sale"
+          }
+        },
+        "f971be66-de10-47ff-926b-da25a3d50b11": {
+          "type": "column",
+          "settings": {
+            "title": "Countdown (<em>Product Page)<\/em>",
+            "text": "<p>Let customers know sale ends on specific products just above the <em>Add to Cart <\/em>button. Also displays a cool animated icon!<br\/><\/p>",
+            "link_label": "See Campaign",
+            "link": "shopify:\/\/products\/i-heart-ruby"
+          }
+        }
+      },
+      "block_order": [
+        "8ba703a8-5a80-4803-a3e8-1587876eb43a",
+        "f971be66-de10-47ff-926b-da25a3d50b11"
+      ],
+      "settings": {
+        "title": "",
+        "heading_size": "h2",
+        "image_width": "full",
+        "image_ratio": "adapt",
+        "columns_desktop": 3,
+        "column_alignment": "left",
+        "background_style": "primary",
+        "button_label": "",
+        "button_link": "",
+        "color_scheme": "background-1",
+        "columns_mobile": "1",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
     "1698105026543a3e18": {
       "type": "apps",
       "blocks": {
@@ -281,100 +375,6 @@
         "padding_bottom": 36
       }
     },
-    "1698104300f62f2898": {
-      "type": "apps",
-      "blocks": {
-        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
-          "settings": {
-            "name": "Countdown PH",
-            "margin_top": 0,
-            "margin_bottom": 0,
-            "minimum_height": 100,
-            "background_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "e7b55aaf-2216-4ba6-b039-dbe0496a88e4"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
-    "d885ebea-b57c-4841-ad1f-de35b15f6390": {
-      "type": "rich-text",
-      "blocks": {
-        "4d31e4f1-dd93-4891-b73f-bce94f6779ac": {
-          "type": "heading",
-          "settings": {
-            "heading": "Countdown Timers",
-            "heading_size": "h2"
-          }
-        },
-        "6134e40d-d59e-42d3-a1b5-af29af57a3c0": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Embed Countdown clocks into products and other pages encourage shoppers to buy before sales end.<\/p>"
-          }
-        }
-      },
-      "block_order": [
-        "4d31e4f1-dd93-4891-b73f-bce94f6779ac",
-        "6134e40d-d59e-42d3-a1b5-af29af57a3c0"
-      ],
-      "settings": {
-        "desktop_content_position": "left",
-        "content_alignment": "left",
-        "color_scheme": "",
-        "full_width": true,
-        "padding_top": 40,
-        "padding_bottom": 0
-      }
-    },
-    "d4c2a0f1-bdce-4492-b757-284a1ff5f2f5": {
-      "type": "multicolumn",
-      "blocks": {
-        "8ba703a8-5a80-4803-a3e8-1587876eb43a": {
-          "type": "column",
-          "settings": {
-            "title": "Countdown (Collection Page)",
-            "text": "<p>Time-limited discounts, flash sales, or countdown timers can create a <br\/>sense of urgency, prompting customers to make quicker purchasing <br\/>decisions.<\/p>",
-            "link_label": "See Campaign",
-            "link": "shopify:\/\/collections\/sale"
-          }
-        },
-        "f971be66-de10-47ff-926b-da25a3d50b11": {
-          "type": "column",
-          "settings": {
-            "title": "Countdown (<em>Product Page)<\/em>",
-            "text": "<p>Let customers know sale ends on specific products just above the <em>Add to Cart <\/em>button. Also displays a cool animated icon!<br\/><\/p>",
-            "link_label": "See Campaign",
-            "link": "shopify:\/\/products\/i-heart-ruby"
-          }
-        }
-      },
-      "block_order": [
-        "8ba703a8-5a80-4803-a3e8-1587876eb43a",
-        "f971be66-de10-47ff-926b-da25a3d50b11"
-      ],
-      "settings": {
-        "title": "",
-        "heading_size": "h2",
-        "image_width": "full",
-        "image_ratio": "adapt",
-        "columns_desktop": 3,
-        "column_alignment": "left",
-        "background_style": "primary",
-        "button_label": "",
-        "button_link": "",
-        "color_scheme": "background-1",
-        "columns_mobile": "1",
-        "swipe_on_mobile": false,
-        "padding_top": 36,
-        "padding_bottom": 36
-      }
-    },
     "16930029432afe1260": {
       "type": "apps",
       "blocks": {
@@ -384,7 +384,7 @@
             "name": "Announcment Bar PH",
             "margin_top": 0,
             "margin_bottom": 0,
-            "minimum_height": 100,
+            "minimum_height": 0,
             "background_color": "rgba(0,0,0,0)"
           }
         }
@@ -548,12 +548,12 @@
     "16930040525dd54785",
     "be915e97-df8f-4680-842f-897bb9c2008c",
     "daab7690-3460-49c6-8b6e-eb5453c54d34",
-    "1698105026543a3e18",
-    "dc3616d9-5349-4960-a8aa-e21c770e3528",
-    "64b45c59-c3be-4113-9f16-a71f4528c726",
     "1698104300f62f2898",
     "d885ebea-b57c-4841-ad1f-de35b15f6390",
     "d4c2a0f1-bdce-4492-b757-284a1ff5f2f5",
+    "1698105026543a3e18",
+    "dc3616d9-5349-4960-a8aa-e21c770e3528",
+    "64b45c59-c3be-4113-9f16-a71f4528c726",
     "16930029432afe1260",
     "5c2f5dd0-aa69-48ac-9477-b32c956faea2",
     "f4ee90f4-49c2-4792-9d6b-2a3560d0b995",
