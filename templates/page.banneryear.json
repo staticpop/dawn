@@ -234,7 +234,7 @@
           "type": "column",
           "settings": {
             "title": "Countdown (Collection Page)",
-            "text": "<p>Time-limited discounts, flash sales, or countdown timers can create a <br\/>sense of urgency, prompting customers to make quicker purchasing <br\/>decisions.<\/p>",
+            "text": "<p>Specify a <em><strong>date and time <\/strong><\/em>for time-limited discounts, flash sales, or holiday milestones to create a sense of urgency, prompting customers to make quicker purchasing decisions.<\/p>",
             "link_label": "See Campaign",
             "link": "shopify:\/\/collections\/sale"
           }
