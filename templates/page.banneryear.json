@@ -233,7 +233,7 @@
         "8ba703a8-5a80-4803-a3e8-1587876eb43a": {
           "type": "column",
           "settings": {
-            "title": "Countdown (Collection Page)",
+            "title": "Date & Time Countdown",
             "text": "<p>Specify a <em><strong>date and time <\/strong><\/em>for time-limited discounts, flash sales, or holiday milestones to create a sense of urgency, prompting customers to make quicker purchasing decisions.<\/p>",
             "link_label": "See Campaign",
             "link": "shopify:\/\/collections\/sale"
@@ -242,7 +242,7 @@
         "f971be66-de10-47ff-926b-da25a3d50b11": {
           "type": "column",
           "settings": {
-            "title": "Countdown (<em>Product Page)<\/em>",
+            "title": "Fixed Minutes Countdown",
             "text": "<p>Set the countdown to a <em><strong>fixed minutes<\/strong><\/em> amount for each shopper. Let customers know sale ends on specific products just above the <em>Add to Cart <\/em>button. Also displays a cool animated icon!<br\/><\/p>",
             "link_label": "See Campaign",
             "link": "shopify:\/\/products\/i-heart-ruby"
