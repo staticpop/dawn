@@ -184,7 +184,7 @@
             "margin_top": 0,
             "margin_bottom": 0,
             "minimum_height": 0,
-            "background_color": "transparent"
+            "background_color": "rgba(0,0,0,0)"
           }
         }
       },
@@ -249,6 +249,7 @@
         },
         "7dae6db1-a9e1-4739-bff7-53811294dae2": {
           "type": "column",
+          "disabled": true,
           "settings": {
             "title": "Low Inventory (<em>Product Page)<\/em>",
             "text": "<p>A low inventory banner creates a sense of urgency and scarcity among customers. When they see that a product is running out, they are more likely to make a purchase immediately instead of delaying their decision.<\/p>",
