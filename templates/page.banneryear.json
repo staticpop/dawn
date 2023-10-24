@@ -14,6 +14,7 @@
         "e16fbd06-6b17-48b6-9144-2ddd1909f38e": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "Top Main",
             "margin_top": 20,
             "margin_bottom": 0,
             "minimum_height": 100,
@@ -181,6 +182,7 @@
         "e700f5d3-f428-437d-9ad4-f68a37e83487": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "Free Shipping Placeholder",
             "margin_top": 0,
             "margin_bottom": 0,
             "minimum_height": 0,
@@ -286,6 +288,7 @@
         "e7b55aaf-2216-4ba6-b039-dbe0496a88e4": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "Countdown PH",
             "margin_top": 0,
             "margin_bottom": 0,
             "minimum_height": 100,
@@ -380,6 +383,7 @@
         "4e6bfbca-1b8e-48a9-aefc-e1576a59952d": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "Announcment Bar PH",
             "margin_top": 0,
             "margin_bottom": 0,
             "minimum_height": 100,
@@ -483,6 +487,7 @@
         "91bdd0a5-1768-470f-8309-e969e95d1cfc": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "Bottom PH",
             "margin_top": 0,
             "margin_bottom": 0,
             "minimum_height": 0,
