@@ -6,9 +6,11 @@
         "264f52de-b3de-41f4-8c36-1735f05bfd37": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "",
             "margin_top": 0,
             "margin_bottom": 0,
-            "minimum_height": 0
+            "minimum_height": 0,
+            "background_color": "transparent"
           }
         }
       },
@@ -22,6 +24,24 @@
     "3b2014bb-58eb-40e4-9a18-7f05adbac8b8": {
       "type": "slideshow",
       "blocks": {
+        "e7478a3d-9e39-4151-8cb6-b5364d3f624c": {
+          "type": "slide",
+          "settings": {
+            "image": "shopify:\/\/shop_images\/smitten-kitten-header_b901ed96-c1ae-4061-8824-59273e95c215.jpg",
+            "heading": "For the Purr-fect Style Statement",
+            "heading_size": "h2",
+            "subheading": "Shop the Cat-Ruby Love Styles!",
+            "button_label": "SHOP NOW →",
+            "link": "shopify:\/\/collections\/kitty-cats",
+            "button_style_secondary": false,
+            "box_align": "bottom-left",
+            "show_text_box": false,
+            "text_alignment": "left",
+            "image_overlay_opacity": 0,
+            "color_scheme": "inverse",
+            "text_alignment_mobile": "center"
+          }
+        },
         "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-1": {
           "type": "slide",
           "settings": {
@@ -57,36 +77,18 @@
             "color_scheme": "inverse",
             "text_alignment_mobile": "center"
           }
-        },
-        "e7478a3d-9e39-4151-8cb6-b5364d3f624c": {
-          "type": "slide",
-          "settings": {
-            "image": "shopify:\/\/shop_images\/smitten-kitten-header_b901ed96-c1ae-4061-8824-59273e95c215.jpg",
-            "heading": "For the Purr-fect Style Statement",
-            "heading_size": "h2",
-            "subheading": "Shop the Cat-Ruby Love Styles!",
-            "button_label": "SHOP NOW →",
-            "link": "shopify:\/\/collections\/kitty-cats",
-            "button_style_secondary": false,
-            "box_align": "bottom-left",
-            "show_text_box": false,
-            "text_alignment": "left",
-            "image_overlay_opacity": 0,
-            "color_scheme": "inverse",
-            "text_alignment_mobile": "center"
-          }
         }
       },
       "block_order": [
+        "e7478a3d-9e39-4151-8cb6-b5364d3f624c",
         "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-1",
-        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-0",
-        "e7478a3d-9e39-4151-8cb6-b5364d3f624c"
+        "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-0"
       ],
       "settings": {
         "layout": "grid",
         "slide_height": "adapt_image",
         "slider_visual": "dots",
-        "auto_rotate": true,
+        "auto_rotate": false,
         "change_slides_speed": 7,
         "image_behavior": "none",
         "show_text_below": true,
@@ -99,9 +101,11 @@
         "85720f6c-d633-4fa9-b267-5d1b7cd6f3ec": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "",
             "margin_top": 0,
             "margin_bottom": 0,
-            "minimum_height": 100
+            "minimum_height": 100,
+            "background_color": "transparent"
           }
         }
       },
@@ -146,9 +150,11 @@
         "8ce54cb3-b4b3-42b7-831b-e5e0d3b32d64": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "",
             "margin_top": 0,
             "margin_bottom": 0,
-            "minimum_height": 0
+            "minimum_height": 0,
+            "background_color": "transparent"
           }
         }
       },
@@ -238,9 +244,11 @@
         "69962400-88c2-4e44-ad22-6a8e9124bdf6": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "",
             "margin_top": 0,
             "margin_bottom": 0,
-            "minimum_height": 0
+            "minimum_height": 0,
+            "background_color": "transparent"
           }
         }
       },
