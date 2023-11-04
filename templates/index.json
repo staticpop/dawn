@@ -325,15 +325,15 @@
         "padding_bottom": 36
       }
     },
-    "9b4ead34-82da-4c28-aeec-a0b37e8b44d8": {
+    "26e237cb-8e85-4665-914f-e5b0f8c6955a": {
       "type": "featured-collection",
       "settings": {
-        "title": "WALL ART",
+        "title": "BEANIES",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "framed-prints",
+        "collection": "beanies",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -353,15 +353,15 @@
         "padding_bottom": 36
       }
     },
-    "26e237cb-8e85-4665-914f-e5b0f8c6955a": {
+    "9b4ead34-82da-4c28-aeec-a0b37e8b44d8": {
       "type": "featured-collection",
       "settings": {
-        "title": "BEANIES",
+        "title": "WALL ART",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "beanies",
+        "collection": "framed-prints",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
@@ -481,8 +481,8 @@
     "bc44a7b6-fd73-402f-9c96-0251aca9bc2f",
     "169514582859ef9995",
     "collage",
-    "9b4ead34-82da-4c28-aeec-a0b37e8b44d8",
     "26e237cb-8e85-4665-914f-e5b0f8c6955a",
+    "9b4ead34-82da-4c28-aeec-a0b37e8b44d8",
     "00c368b7-2bef-4726-b0a4-321a27f04217",
     "931d15f2-9344-40ea-8ee7-cbfc425c149c"
   ]
