@@ -321,7 +321,7 @@
         "b242d9b6-56ac-48fa-ba94-60ab9f96e7e1": {
           "type": "collection",
           "settings": {
-            "collection": "patches"
+            "collection": "sweatshirts"
           }
         },
         "collection-1": {
@@ -337,7 +337,7 @@
         "collection-1"
       ],
       "settings": {
-        "heading": "",
+        "heading": "BUNDLE INSTALL",
         "heading_size": "h2",
         "desktop_layout": "left",
         "mobile_layout": "collage",
