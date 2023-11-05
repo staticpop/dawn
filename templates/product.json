@@ -244,12 +244,41 @@
       "settings": {
         "include_margins": true
       }
+    },
+    "06372e03-5b65-4fc9-be6e-bf88236da9ce": {
+      "type": "featured-collection",
+      "settings": {
+        "title": "BUNDLE INSTALL WINTER",
+        "heading_size": "h2",
+        "description": "<p>Stay Warm This Winter<\/p>",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "image_ratio": "portrait",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "168970404461c3b79a",
     "main",
     "f507a392-5474-46d1-b823-cba1ce63fba9",
-    "16892090548ce276c2"
+    "16892090548ce276c2",
+    "06372e03-5b65-4fc9-be6e-bf88236da9ce"
   ]
 }
