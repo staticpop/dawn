@@ -350,12 +350,12 @@
     "26e237cb-8e85-4665-914f-e5b0f8c6955a": {
       "type": "featured-collection",
       "settings": {
-        "title": "BEANIES",
+        "title": "STICKERS",
         "heading_size": "h2",
         "description": "",
         "show_description": false,
         "description_style": "body",
-        "collection": "beanies",
+        "collection": "stickers",
         "products_to_show": 4,
         "columns_desktop": 4,
         "full_width": false,
