@@ -124,7 +124,7 @@
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
             "name": "",
-            "margin_top": 0,
+            "margin_top": 50,
             "margin_bottom": 0,
             "minimum_height": 100,
             "background_color": "rgba(0,0,0,0)"
