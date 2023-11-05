@@ -248,9 +248,9 @@
     "06372e03-5b65-4fc9-be6e-bf88236da9ce": {
       "type": "featured-collection",
       "settings": {
-        "title": "BUNDLE INSTALL WINTER",
+        "title": "",
         "heading_size": "h2",
-        "description": "<p>Stay Warm This Winter<\/p>",
+        "description": "",
         "show_description": true,
         "description_style": "body",
         "collection": "winter",
