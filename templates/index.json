@@ -457,6 +457,27 @@
         "padding_bottom": 60
       }
     },
+    "1699316005e00f7832": {
+      "type": "apps",
+      "blocks": {
+        "57d8ded6-fe7a-4a99-a1e3-e55b7943838e": {
+          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "settings": {
+            "name": "",
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0,
+            "background_color": "transparent"
+          }
+        }
+      },
+      "block_order": [
+        "57d8ded6-fe7a-4a99-a1e3-e55b7943838e"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "931d15f2-9344-40ea-8ee7-cbfc425c149c": {
       "type": "newsletter",
       "blocks": {
@@ -506,6 +527,7 @@
     "26e237cb-8e85-4665-914f-e5b0f8c6955a",
     "9b4ead34-82da-4c28-aeec-a0b37e8b44d8",
     "00c368b7-2bef-4726-b0a4-321a27f04217",
+    "1699316005e00f7832",
     "931d15f2-9344-40ea-8ee7-cbfc425c149c"
   ]
 }
