@@ -35,7 +35,7 @@
         "content"
       ],
       "custom_css": [
-        "p {font-size: 2rem}"
+        "p,li {font-size: 2rem;}"
       ],
       "settings": {
       }
