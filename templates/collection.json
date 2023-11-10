@@ -10,7 +10,7 @@
             "margin_top": 20,
             "margin_bottom": 0,
             "minimum_height": 0,
-            "background_color": "transparent"
+            "background_color": "rgba(0,0,0,0)"
           }
         }
       },
@@ -92,12 +92,59 @@
         "padding_top": 36,
         "padding_bottom": 36
       }
+    },
+    "628e998b-ceab-4e6a-bdf2-6030fdcfbf16": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18163213828384__628e998b-ceab-4e6a-bdf2-6030fdcfbf16-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE POPRUBY GIFT CARD",
+            "heading_size": "h2"
+          }
+        },
+        "template--18163213828384__628e998b-ceab-4e6a-bdf2-6030fdcfbf16-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Spread the holiday cheer this season with our new gift cards! Whether you have a special Rubyist in your life or you're stumped about your Christmas wishlist, we've got you covered. Trust us, there's no easier way to make spirits bright this season!<\/p>",
+            "text_style": "subtitle"
+          }
+        },
+        "template--18163213828384__628e998b-ceab-4e6a-bdf2-6030fdcfbf16-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW →",
+            "button_link": "https:\/\/popruby.com\/products\/popruby-gift-card",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18163213828384__628e998b-ceab-4e6a-bdf2-6030fdcfbf16-heading-1",
+        "template--18163213828384__628e998b-ceab-4e6a-bdf2-6030fdcfbf16-text-1",
+        "template--18163213828384__628e998b-ceab-4e6a-bdf2-6030fdcfbf16-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/christmas-card-mockup-lying-over-gifts-and-ornaments-23838.jpg",
+        "height": "adapt",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
     }
   },
   "order": [
     "168926769416adfb5b",
     "banner",
     "product-grid",
-    "8c98ab15-c5df-4613-bd7b-a062ae7b0df2"
+    "8c98ab15-c5df-4613-bd7b-a062ae7b0df2",
+    "628e998b-ceab-4e6a-bdf2-6030fdcfbf16"
   ]
 }
