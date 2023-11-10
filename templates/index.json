@@ -187,52 +187,6 @@
         "include_margins": true
       }
     },
-    "67b3430a-8ce0-465f-87a0-8fd07da4e567": {
-      "type": "image-with-text",
-      "blocks": {
-        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-heading-1": {
-          "type": "heading",
-          "settings": {
-            "heading": "THE POPRUBY GIFT CARD",
-            "heading_size": "h2"
-          }
-        },
-        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-text-1": {
-          "type": "text",
-          "settings": {
-            "text": "<p>Spread the holiday cheer this season with our new gift cards! Whether you have a special Rubyist in your life or you're stumped about your Christmas wishlist, we've got you covered. Trust us, there's no easier way to make spirits bright this season!  <\/p>",
-            "text_style": "body"
-          }
-        },
-        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-button-1": {
-          "type": "button",
-          "settings": {
-            "button_label": "SHOP NOW →",
-            "button_link": "https:\/\/popruby.com\/products\/popruby-gift-card",
-            "button_style_secondary": false
-          }
-        }
-      },
-      "block_order": [
-        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-heading-1",
-        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-text-1",
-        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-button-1"
-      ],
-      "settings": {
-        "image": "shopify:\/\/shop_images\/christmas-card-mockup-lying-over-gifts-and-ornaments-23838.jpg",
-        "height": "small",
-        "desktop_image_width": "small",
-        "layout": "image_first",
-        "desktop_content_position": "middle",
-        "desktop_content_alignment": "center",
-        "content_layout": "no-overlap",
-        "color_scheme": "background-2",
-        "image_behavior": "none",
-        "mobile_content_alignment": "left",
-        "padding_top": 36,
-        "padding_bottom": 12
-      }
-    },
     "73e79dca-f168-4467-b239-ec944d8fb097": {
       "type": "multicolumn",
       "blocks": {
@@ -276,6 +230,52 @@
         "swipe_on_mobile": false,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "67b3430a-8ce0-465f-87a0-8fd07da4e567": {
+      "type": "image-with-text",
+      "blocks": {
+        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "THE POPRUBY GIFT CARD",
+            "heading_size": "h2"
+          }
+        },
+        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Spread the holiday cheer this season with our new gift cards! Whether you have a special Rubyist in your life or you're stumped about your Christmas wishlist, we've got you covered. Trust us, there's no easier way to make spirits bright this season!  <\/p>",
+            "text_style": "body"
+          }
+        },
+        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-button-1": {
+          "type": "button",
+          "settings": {
+            "button_label": "SHOP NOW →",
+            "button_link": "https:\/\/popruby.com\/products\/popruby-gift-card",
+            "button_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-heading-1",
+        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-text-1",
+        "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-button-1"
+      ],
+      "settings": {
+        "image": "shopify:\/\/shop_images\/christmas-card-mockup-lying-over-gifts-and-ornaments-23838.jpg",
+        "height": "small",
+        "desktop_image_width": "small",
+        "layout": "image_first",
+        "desktop_content_position": "middle",
+        "desktop_content_alignment": "center",
+        "content_layout": "no-overlap",
+        "color_scheme": "background-2",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
+        "padding_top": 0,
+        "padding_bottom": 12
       }
     },
     "6f44e7a5-79af-4894-b0de-ce4eef3b1bd4": {
@@ -565,8 +565,8 @@
     "1689264848287db94c",
     "featured_collection",
     "1692837974d97b9a32",
-    "67b3430a-8ce0-465f-87a0-8fd07da4e567",
     "73e79dca-f168-4467-b239-ec944d8fb097",
+    "67b3430a-8ce0-465f-87a0-8fd07da4e567",
     "6f44e7a5-79af-4894-b0de-ce4eef3b1bd4",
     "bc44a7b6-fd73-402f-9c96-0251aca9bc2f",
     "169514582859ef9995",
