@@ -246,7 +246,7 @@
           "type": "text",
           "settings": {
             "text": "<p>Spread the holiday cheer this season with our new gift cards! Whether you have a special Rubyist in your life or you're stumped about your Christmas wishlist, we've got you covered. Trust us, there's no easier way to make spirits bright this season!  <\/p>",
-            "text_style": "body"
+            "text_style": "subtitle"
           }
         },
         "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-button-1": {
