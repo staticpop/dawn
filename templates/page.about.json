@@ -2,7 +2,6 @@
   "sections": {
     "01982482-3d82-4d4b-b09b-7285107ecb5b": {
       "type": "slideshow",
-      "disabled": true,
       "blocks": {
         "template--16699156005152__01982482-3d82-4d4b-b09b-7285107ecb5b-1668213361e079e93b-0": {
           "type": "slide",
@@ -25,6 +24,7 @@
       "block_order": [
         "template--16699156005152__01982482-3d82-4d4b-b09b-7285107ecb5b-1668213361e079e93b-0"
       ],
+      "disabled": true,
       "settings": {
         "layout": "grid",
         "slide_height": "adapt_image",
@@ -42,6 +42,11 @@
         "225949f5-e5d5-400b-aca1-c87ca7dc3752": {
           "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
+            "name": "",
+            "margin_top": 0,
+            "margin_bottom": 0,
+            "minimum_height": 0,
+            "background_color": "transparent"
           }
         }
       },
@@ -178,38 +183,48 @@
         "padding_bottom": 36
       }
     },
-    "248c5b68-9862-41c9-a347-7b256f0e6da6": {
-      "type": "collage",
-      "disabled": true,
+    "dbb3c2b0-fd7f-44a5-9c76-a66ee2ac2dc7": {
+      "type": "image-with-text",
       "blocks": {
-        "8b3f7e1a-750a-4ead-915a-a9d7607e45ef": {
-          "type": "image",
+        "template--18163679789344__dbb3c2b0-fd7f-44a5-9c76-a66ee2ac2dc7-heading-1": {
+          "type": "heading",
           "settings": {
+            "heading": "Custom Swag for your Organization",
+            "heading_size": "h1"
           }
         },
-        "37088d81-c324-4433-a5a7-a94845be4e52": {
-          "type": "image",
+        "template--18163679789344__dbb3c2b0-fd7f-44a5-9c76-a66ee2ac2dc7-text-1": {
+          "type": "text",
           "settings": {
+            "text": "<p>Looking for some incredible custom merchandise to support your brand, organization or conference? You're in the right place! PopRuby can custom-produce any of the items you see on our site, including premium t-shirts, socks, fleece, totebags, and much more. Need some custom artwork designed? We can do that too. In fact, we can handle any part of the process, from design to production to fulfillment.<\/p>",
+            "text_style": "body"
           }
         },
-        "8d8f39ab-aed0-41cb-b9e9-868f7a761183": {
-          "type": "image",
+        "template--18163679789344__dbb3c2b0-fd7f-44a5-9c76-a66ee2ac2dc7-button-1": {
+          "type": "button",
           "settings": {
+            "button_label": "Learn More →",
+            "button_link": "shopify:\/\/pages\/make-custom-t-shirts",
+            "button_style_secondary": false
           }
         }
       },
       "block_order": [
-        "8b3f7e1a-750a-4ead-915a-a9d7607e45ef",
-        "37088d81-c324-4433-a5a7-a94845be4e52",
-        "8d8f39ab-aed0-41cb-b9e9-868f7a761183"
+        "template--18163679789344__dbb3c2b0-fd7f-44a5-9c76-a66ee2ac2dc7-heading-1",
+        "template--18163679789344__dbb3c2b0-fd7f-44a5-9c76-a66ee2ac2dc7-text-1",
+        "template--18163679789344__dbb3c2b0-fd7f-44a5-9c76-a66ee2ac2dc7-button-1"
       ],
       "settings": {
-        "heading": "",
-        "heading_size": "h1",
-        "desktop_layout": "left",
-        "mobile_layout": "collage",
-        "card_styles": "product-card-wrapper",
-        "color_scheme": "background-1",
+        "image": "shopify:\/\/shop_images\/Cropped_T-Shirt_Mockup.jpg",
+        "height": "adapt",
+        "desktop_image_width": "medium",
+        "layout": "image_first",
+        "desktop_content_position": "top",
+        "desktop_content_alignment": "left",
+        "content_layout": "no-overlap",
+        "color_scheme": "",
+        "image_behavior": "none",
+        "mobile_content_alignment": "left",
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -263,7 +278,7 @@
     "c098554b-bb41-49c8-8ebf-b8a12a4f3842",
     "main",
     "97f428e7-28de-4c6d-a005-0b09cf6420a0",
-    "248c5b68-9862-41c9-a347-7b256f0e6da6",
+    "dbb3c2b0-fd7f-44a5-9c76-a66ee2ac2dc7",
     "0b9e0c41-b8d2-4760-b870-9f671718d617"
   ]
 }
