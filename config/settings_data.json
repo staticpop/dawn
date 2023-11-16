@@ -393,7 +393,8 @@
   "platform_customizations": {
     "custom_css": [
       ".product-form__input input[type=\"radio\"] + label {padding: 0.5rem 1rem; font-size: 1.4rem; letter-spacing: 0.1rem;}",
-      "@media screen and (min-width: 990px) {article .page-width--narrow {max-width: 100rem; padding: 0;}}"
+      "@media screen and (min-width: 990px) {article .page-width--narrow {max-width: 100rem; padding: 0; }}",
+      ".product__media {background: #f3f3f3;}"
     ]
   }
 }
