@@ -460,9 +460,9 @@
         "template--20663922458912__f4ee90f4-49c2-4792-9d6b-2a3560d0b995-column-3": {
           "type": "column",
           "settings": {
-            "title": "Top Bar <em>(Custom page)<\/em>",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
-            "link_label": "See Campaign",
+            "title": "Multiple Messages (This page<em>)<\/em>",
+            "text": "<p>Convey more information on promotions and sales. Rotate multiple messages in a single banner in a variety of ways including scrolling, flipping, sliders, and more.<\/p>",
+            "link_label": "",
             "link": "shopify:\/\/pages\/about"
           }
         }
