@@ -71,7 +71,6 @@
     },
     "b1f4a760-5be9-49d2-9fc0-6c956c25fec2": {
       "type": "rich-text",
-      "disabled": true,
       "blocks": {
         "template--16699155808544__b1f4a760-5be9-49d2-9fc0-6c956c25fec2-1668446933213143ae-0": {
           "type": "heading",
@@ -103,6 +102,7 @@
         "template--16699155808544__b1f4a760-5be9-49d2-9fc0-6c956c25fec2-1668446933213143ae-1",
         "template--16699155808544__b1f4a760-5be9-49d2-9fc0-6c956c25fec2-1668446933213143ae-2"
       ],
+      "disabled": true,
       "settings": {
         "desktop_content_position": "center",
         "content_alignment": "center",
@@ -128,7 +128,7 @@
           "type": "column",
           "settings": {
             "title": "Have a suggestion for a design?",
-            "text": "<p>We're always open for great ideas. Please send us your suggestions or designs at <a href=\"mailto:suggestions@poporuby.com\" title=\"mailto:suggestions@poporuby.com\">suggestions@poporuby.com<\/a> and we'll get back to you as soon as possible. <\/p>",
+            "text": "<p>We're always open for great ideas. Please send us your suggestions or designs at <a href=\"mailto:suggestions@poporuby.com\" title=\"mailto:suggestions@poporuby.com\">hello@popruby.com<\/a> and we'll get back to you as soon as possible. <\/p>",
             "link_label": "",
             "link": ""
           }
