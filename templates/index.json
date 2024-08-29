@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "168920616796273ada": {
@@ -24,6 +33,23 @@
     "3b2014bb-58eb-40e4-9a18-7f05adbac8b8": {
       "type": "slideshow",
       "blocks": {
+        "slide_EWh7hX": {
+          "type": "slide",
+          "settings": {
+            "heading": "Image slide",
+            "heading_size": "h1",
+            "subheading": "Tell your brand's story through images",
+            "button_label": "Button label",
+            "link": "",
+            "button_style_secondary": false,
+            "box_align": "middle-center",
+            "show_text_box": true,
+            "text_alignment": "center",
+            "image_overlay_opacity": 0,
+            "color_scheme": "background-1",
+            "text_alignment_mobile": "center"
+          }
+        },
         "e7478a3d-9e39-4151-8cb6-b5364d3f624c": {
           "type": "slide",
           "disabled": true,
@@ -101,6 +127,7 @@
         }
       },
       "block_order": [
+        "slide_EWh7hX",
         "e7478a3d-9e39-4151-8cb6-b5364d3f624c",
         "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-1",
         "template--18163213762848__3b2014bb-58eb-40e4-9a18-7f05adbac8b8-168920487356de7a69-0",
@@ -147,7 +174,7 @@
         "show_description": false,
         "description_style": "body",
         "collection": "t-shirts",
-        "products_to_show": 9,
+        "products_to_show": 18,
         "columns_desktop": 3,
         "full_width": false,
         "show_view_all": true,
