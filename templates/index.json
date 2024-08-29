@@ -35,6 +35,7 @@
       "blocks": {
         "slide_EWh7hX": {
           "type": "slide",
+          "disabled": true,
           "settings": {
             "heading": "Image slide",
             "heading_size": "h1",
