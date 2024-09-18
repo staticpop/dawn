@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "168970404461c3b79a": {
@@ -224,6 +233,23 @@
         "padding_bottom": 36
       }
     },
+    "17266961795ab22193": {
+      "type": "apps",
+      "blocks": {
+        "essential_countdown_app_block_YxEAeN": {
+          "type": "shopify:\/\/apps\/essential-countdown\/blocks\/app-block\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+          "settings": {
+            "id": ""
+          }
+        }
+      },
+      "block_order": [
+        "essential_countdown_app_block_YxEAeN"
+      ],
+      "settings": {
+        "include_margins": true
+      }
+    },
     "16892090548ce276c2": {
       "type": "apps",
       "blocks": {
@@ -278,6 +304,7 @@
     "168970404461c3b79a",
     "main",
     "f507a392-5474-46d1-b823-cba1ce63fba9",
+    "17266961795ab22193",
     "16892090548ce276c2",
     "06372e03-5b65-4fc9-be6e-bf88236da9ce"
   ]
