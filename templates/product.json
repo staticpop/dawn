@@ -30,23 +30,6 @@
         "include_margins": true
       }
     },
-    "17266961795ab22193": {
-      "type": "apps",
-      "blocks": {
-        "essential_countdown_app_block_YxEAeN": {
-          "type": "shopify:\/\/apps\/essential-countdown\/blocks\/app-block\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
-          "settings": {
-            "id": "cm18eaczo26765619t6i0ggolmh"
-          }
-        }
-      },
-      "block_order": [
-        "essential_countdown_app_block_YxEAeN"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "main": {
       "type": "main-product",
       "blocks": {
@@ -302,7 +285,6 @@
   },
   "order": [
     "168970404461c3b79a",
-    "17266961795ab22193",
     "main",
     "f507a392-5474-46d1-b823-cba1ce63fba9",
     "16892090548ce276c2",
