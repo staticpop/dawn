@@ -1,17 +1,17 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
-    "logo": "shopify:\/\/shop_images\/PopRuby_Normal_Horizontal_Transparent.png",
+    "logo": "shopify://shop_images/PopRuby_Normal_Horizontal_Transparent.png",
     "logo_width": 190,
-    "favicon": "shopify:\/\/shop_images\/Logomark.png",
+    "favicon": "shopify://shop_images/Logomark.png",
     "type_header_font": "assistant_n4",
     "heading_scale": 100,
     "type_body_font": "assistant_n4",
@@ -20,8 +20,8 @@
     "spacing_sections": 0,
     "spacing_grid_horizontal": 8,
     "spacing_grid_vertical": 8,
-    "animations_reveal_on_scroll": true,
-    "animations_hover_elements": "vertical-lift",
+    "animations_reveal_on_scroll": false,
+    "animations_hover_elements": "default",
     "buttons_border_thickness": 1,
     "buttons_border_opacity": 100,
     "buttons_radius": 0,
@@ -143,19 +143,19 @@
     ],
     "blocks": {
       "8244597689238439600": {
-        "type": "shopify:\/\/apps\/banneryear\/blocks\/app-embed-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+        "type": "shopify://apps/banneryear/blocks/app-embed-block/75ca5825-a54b-4d42-be9c-ef3521208c37",
         "disabled": false,
         "settings": {
         }
       },
       "12657775114333427046": {
-        "type": "shopify:\/\/apps\/essential-countdown\/blocks\/app_embed\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+        "type": "shopify://apps/essential-countdown/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
         "settings": {
         }
       },
       "15683396631634586217": {
-        "type": "shopify:\/\/apps\/inbox\/blocks\/chat\/841fc607-4181-4ad1-842d-e24d7f8bad6b",
+        "type": "shopify://apps/inbox/blocks/chat/841fc607-4181-4ad1-842d-e24d7f8bad6b",
         "disabled": false,
         "settings": {
           "button_color": "#f53737",
