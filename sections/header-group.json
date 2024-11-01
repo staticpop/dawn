@@ -20,7 +20,7 @@
             "name": "",
             "margin_top": 0,
             "margin_bottom": 0,
-            "minimum_height": 0,
+            "minimum_height": 40,
             "background_color": "#fd646c"
           }
         }

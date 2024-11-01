@@ -1,19 +1,19 @@
 /*
-* ------------------------------------------------------------
-* IMPORTANT: The contents of this file are auto-generated.
-*
-* This file may be updated by the Shopify admin theme editor
-* or related systems. Please exercise caution as any changes
-* made to this file may be overwritten.
-* ------------------------------------------------------------
-*/
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "168920616796273ada": {
       "type": "apps",
       "blocks": {
         "264f52de-b3de-41f4-8c36-1735f05bfd37": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "type": "shopify://apps/banneryear/blocks/by-section-placeholder-block/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
             "name": "",
             "margin_top": 0,
@@ -55,12 +55,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/smitten-kitten-header_b901ed96-c1ae-4061-8824-59273e95c215.jpg",
+            "image": "shopify://shop_images/smitten-kitten-header_b901ed96-c1ae-4061-8824-59273e95c215.jpg",
             "heading": "For the Purr-fect Style Statement",
             "heading_size": "h2",
             "subheading": "Shop the Cat-Ruby Love Styles!",
             "button_label": "SHOP NOW →",
-            "link": "shopify:\/\/collections\/kitty-cats",
+            "link": "shopify://collections/kitty-cats",
             "button_style_secondary": false,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -74,12 +74,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/ruby-or-die-header_769151f1-940e-40a1-b428-2cb4b0f800c2.jpg",
+            "image": "shopify://shop_images/ruby-or-die-header_769151f1-940e-40a1-b428-2cb4b0f800c2.jpg",
             "heading": "Spooky Ruby Collection",
             "heading_size": "h2",
             "subheading": "Order now for your Hallow's Eve party",
             "button_label": "SHOP NOW →",
-            "link": "shopify:\/\/collections\/halloween",
+            "link": "shopify://collections/halloween",
             "button_style_secondary": true,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -93,12 +93,12 @@
           "type": "slide",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/lost-in-ruby-header_b72129af-8f38-4f7a-bc21-4aa69abbf5be.jpg",
+            "image": "shopify://shop_images/lost-in-ruby-header_b72129af-8f38-4f7a-bc21-4aa69abbf5be.jpg",
             "heading": "Explore the Universe of Ruby",
             "heading_size": "h2",
             "subheading": "Our Space-Themed Collection Now Available",
             "button_label": "SHOP NOW →",
-            "link": "shopify:\/\/collections\/lost-in-ruby",
+            "link": "shopify://collections/lost-in-ruby",
             "button_style_secondary": true,
             "box_align": "bottom-left",
             "show_text_box": false,
@@ -111,12 +111,12 @@
         "1ea4f319-3a7b-48ff-8748-d1778be121d6": {
           "type": "slide",
           "settings": {
-            "image": "shopify:\/\/shop_images\/lasting-banner-homepage-banner_955d7a00-3df4-46ae-9cd1-6d48456358ea.jpg",
-            "heading": "<strong>Unlock the Ruby riches<\/strong>",
+            "image": "shopify://shop_images/lasting-banner-homepage-banner_955d7a00-3df4-46ae-9cd1-6d48456358ea.jpg",
+            "heading": "<strong>Unlock the Ruby riches</strong>",
             "heading_size": "h2",
-            "subheading": "<strong>Dive into our collection and wear your Ruby<\/strong>",
+            "subheading": "<strong>Dive into our collection and wear your Ruby</strong>",
             "button_label": "SHOP NOW",
-            "link": "shopify:\/\/collections\/t-shirts",
+            "link": "shopify://collections/t-shirts",
             "button_style_secondary": true,
             "box_align": "bottom-right",
             "show_text_box": false,
@@ -149,7 +149,7 @@
       "type": "apps",
       "blocks": {
         "85720f6c-d633-4fa9-b267-5d1b7cd6f3ec": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "type": "shopify://apps/banneryear/blocks/by-section-placeholder-block/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
             "name": "",
             "margin_top": 20,
@@ -194,48 +194,27 @@
         "padding_bottom": 36
       }
     },
-    "1692837974d97b9a32": {
-      "type": "apps",
-      "blocks": {
-        "8ce54cb3-b4b3-42b7-831b-e5e0d3b32d64": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
-          "settings": {
-            "name": "",
-            "margin_top": 0,
-            "margin_bottom": 0,
-            "minimum_height": 0,
-            "background_color": "rgba(0,0,0,0)"
-          }
-        }
-      },
-      "block_order": [
-        "8ce54cb3-b4b3-42b7-831b-e5e0d3b32d64"
-      ],
-      "settings": {
-        "include_margins": true
-      }
-    },
     "73e79dca-f168-4467-b239-ec944d8fb097": {
       "type": "multicolumn",
       "blocks": {
         "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/t-shirt-mockup-of-a-smiling-man-with-sunglasses-working-on-his-laptop-m16616-r-el2.png",
+            "image": "shopify://shop_images/t-shirt-mockup-of-a-smiling-man-with-sunglasses-working-on-his-laptop-m16616-r-el2.png",
             "title": "",
             "text": "",
             "link_label": "Shop Men's Shirts",
-            "link": "shopify:\/\/collections\/t-shirts"
+            "link": "shopify://collections/t-shirts"
           }
         },
         "template--18163213762848__73e79dca-f168-4467-b239-ec944d8fb097-168920522136e7de11-1": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/tee-mockup-of-a-woman-with-glasses-having-a-video-conference-on-her-laptop-m16322-r-el2.jpg",
+            "image": "shopify://shop_images/tee-mockup-of-a-woman-with-glasses-having-a-video-conference-on-her-laptop-m16322-r-el2.jpg",
             "title": "",
             "text": "",
             "link_label": "Shop Women's Shirts",
-            "link": "shopify:\/\/collections\/womens-t-shirts"
+            "link": "shopify://collections/womens-t-shirts"
           }
         }
       },
@@ -273,7 +252,7 @@
         "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Spread the holiday cheer this season with our new gift cards! Whether you have a special Rubyist in your life or you're stumped about your Christmas wishlist, we've got you covered. Trust us, there's no easier way to make spirits bright this season!  <\/p>",
+            "text": "<p>Spread the holiday cheer this season with our new gift cards! Whether you have a special Rubyist in your life or you're stumped about your Christmas wishlist, we've got you covered. Trust us, there's no easier way to make spirits bright this season!  </p>",
             "text_style": "subtitle"
           }
         },
@@ -281,7 +260,7 @@
           "type": "button",
           "settings": {
             "button_label": "SHOP NOW →",
-            "button_link": "https:\/\/popruby.com\/products\/popruby-gift-card",
+            "button_link": "https://popruby.com/products/popruby-gift-card",
             "button_style_secondary": false
           }
         }
@@ -292,7 +271,7 @@
         "template--18163213762848__67b3430a-8ce0-465f-87a0-8fd07da4e567-button-1"
       ],
       "settings": {
-        "image": "shopify:\/\/shop_images\/christmas-card-mockup-lying-over-gifts-and-ornaments-23838.jpg",
+        "image": "shopify://shop_images/christmas-card-mockup-lying-over-gifts-and-ornaments-23838.jpg",
         "height": "small",
         "desktop_image_width": "small",
         "layout": "image_first",
@@ -311,7 +290,7 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "description": "<p>Coffee Mugs<\/p>",
+        "description": "<p>Coffee Mugs</p>",
         "show_description": false,
         "description_style": "uppercase",
         "collection": "coffee-mugs",
@@ -339,7 +318,7 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "description": "<p>Phone Cases<\/p>",
+        "description": "<p>Phone Cases</p>",
         "show_description": false,
         "description_style": "uppercase",
         "collection": "phone-cases",
@@ -366,7 +345,7 @@
       "type": "apps",
       "blocks": {
         "69962400-88c2-4e44-ad22-6a8e9124bdf6": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "type": "shopify://apps/banneryear/blocks/by-section-placeholder-block/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
             "name": "",
             "margin_top": 0,
@@ -426,7 +405,7 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "description": "<p>Stickers<\/p>",
+        "description": "<p>Stickers</p>",
         "show_description": false,
         "description_style": "uppercase",
         "collection": "stickers",
@@ -454,7 +433,7 @@
       "settings": {
         "title": "",
         "heading_size": "h2",
-        "description": "<p>Wall Art<\/p>",
+        "description": "<p>Wall Art</p>",
         "show_description": false,
         "description_style": "uppercase",
         "collection": "framed-prints",
@@ -484,7 +463,7 @@
           "type": "column",
           "settings": {
             "title": "⭐️️ Easy Return Policy",
-            "text": "<p>Free 30 day returns and exchanges. Purchase with peace of mind. If it doesn't fit right or if you just have second thoughts, we got you!&lt;\\\/p&gt;<\/p>",
+            "text": "<p>Free 30 day returns and exchanges. Purchase with peace of mind. If it doesn't fit right or if you just have second thoughts, we got you!&lt;\\/p&gt;</p>",
             "link_label": "",
             "link": ""
           }
@@ -493,7 +472,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -502,7 +481,7 @@
           "type": "column",
           "settings": {
             "title": "Column",
-            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.<\/p>",
+            "text": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
             "link_label": "",
             "link": ""
           }
@@ -535,7 +514,7 @@
       "type": "apps",
       "blocks": {
         "57d8ded6-fe7a-4a99-a1e3-e55b7943838e": {
-          "type": "shopify:\/\/apps\/banneryear\/blocks\/by-section-placeholder-block\/75ca5825-a54b-4d42-be9c-ef3521208c37",
+          "type": "shopify://apps/banneryear/blocks/by-section-placeholder-block/75ca5825-a54b-4d42-be9c-ef3521208c37",
           "settings": {
             "name": "",
             "margin_top": 0,
@@ -565,7 +544,7 @@
         "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new designs and exclusive offers.<\/p>"
+            "text": "<p>Be the first to know about new designs and exclusive offers.</p>"
           }
         },
         "template--18163213762848__931d15f2-9344-40ea-8ee7-cbfc425c149c-16892064375452915b-2": {
@@ -592,7 +571,6 @@
     "3b2014bb-58eb-40e4-9a18-7f05adbac8b8",
     "1689264848287db94c",
     "featured_collection",
-    "1692837974d97b9a32",
     "73e79dca-f168-4467-b239-ec944d8fb097",
     "67b3430a-8ce0-465f-87a0-8fd07da4e567",
     "6f44e7a5-79af-4894-b0de-ce4eef3b1bd4",
